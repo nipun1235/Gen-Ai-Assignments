@@ -633,5 +633,92 @@ Methods:
 
 ---
 
+# Streamlit Assignment
+
+## Task 1: Hello World App
+
+### Features
+- Displayed a simple message using Streamlit.
+- Used `st.write()` to print text on the web page.
+
+### Concepts Used
+- Streamlit Installation
+- st.write()
+
+---
+
+## Task 2: Price Calculator App
+
+### Features
+- Takes product price as input.
+- Takes discount percentage using slider.
+- Calculates discounted price on button click.
+- Displays final price using `st.success()`.
+- Shows comparison of original and discounted price.
+
+### Concepts Used
+- st.number_input()
+- st.slider()
+- st.button()
+- st.success()
+- st.table()
+
+---
+
+## Task 3: Product Form App
+
+### Features
+- Accepts product name, category, and price.
+- Uses Streamlit sidebar for inputs.
+- Displays product details in tabular format.
+- Shows success message when product is added.
+
+### Concepts Used
+- st.sidebar.text_input()
+- st.sidebar.selectbox()
+- st.sidebar.number_input()
+- st.sidebar.button()
+- st.table()
+
+---
+
+## Task 4: Mini Sales Dashboard
+
+### Features
+- Displays monthly sales dashboard.
+- Select month using dropdown.
+- Shows selected month's sales.
+- Displays sales data using a bar chart.
+
+### Sales Data
+
+```python
+sales = {
+    "January": 1200,
+    "February": 1500,
+    "March": 900,
+    "April": 2000
+}
+```
+
+### Concepts Used
+- Python Dictionary
+- st.selectbox()
+- st.metric()
+- st.bar_chart()
+
+---
+
+## Learning Outcomes
+
+Through these assignments, I learned:
+
+- Streamlit Basics
+- User Input Handling
+- Sidebar Components
+- Tables and Metrics
+- Data Visualization
+- Building Interactive Web Apps with Python
+
 ### Author
 Nipun Bhardwaj
