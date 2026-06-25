@@ -720,5 +720,118 @@ Through these assignments, I learned:
 - Data Visualization
 - Building Interactive Web Apps with Python
 
+# Pandas Series and DataFrame Assignment
+
+## Overview
+
+This assignment demonstrates the basic concepts of the Pandas library using Jupyter Notebook. It includes working with Pandas Series, DataFrames, mathematical operations, filtering, grouping, sorting, plotting, and a simple sales data analysis.
+
+---
+
+## Tasks Covered
+
+### Task 1: Pandas Series Basics
+- Create a Pandas Series
+- Display Series values, index, and data type
+- Access the first element and last two elements
+
+### Task 2: Mathematical Operations on Series
+- Add 5 marks
+- Subtract 2 marks
+- Multiply marks by 1.05
+- Divide marks by 2
+
+### Task 3: Python Functionalities on Series
+- Find maximum, minimum, sum, and mean
+- Apply a lambda function for Pass/Fail
+- Count the number of passed students
+
+### Task 4: DataFrame Creation
+- Create a student DataFrame
+- Display the first 3 rows
+- Display the last 2 rows
+- Display DataFrame shape and column names
+
+### Task 5: Important DataFrame Functions
+- info()
+- describe()
+- head()
+- tail()
+- Sort students by marks
+- Reset DataFrame index
+
+### Task 6: Filtering and Conditional Selection
+- Students scoring more than 75
+- Students belonging to Math
+- Students scoring above average
+- Students with marks below 70
+
+### Task 7: Grouping and Basic Analysis
+- Average marks per subject
+- Number of students per subject
+- Maximum marks per subject
+
+### Task 8: Pandas Plotting
+- Bar Chart
+- Line Chart
+- Histogram
+
+### Task 9: Mini Sales Data Analysis
+- Total revenue
+- Average daily revenue
+- Day with highest revenue
+- Days where revenue is greater than average
+- Plot Graph of Revenue vs Day
+
+---
+
+## Technologies Used
+
+- Python 3
+- Pandas
+- NumPy
+- Matplotlib
+- Jupyter Notebook
+
+---
+
+## How to Run
+
+### 1. Install the required libraries
+
+```bash
+pip install pandas numpy matplotlib notebook
+```
+
+### 2. Start Jupyter Notebook
+
+```bash
+jupyter notebook
+```
+
+### 3. Open the notebook
+
+Open the assignment notebook (`.ipynb`) file.
+
+### 4. Run the notebook
+
+Run each cell one by one using **Shift + Enter**, or select **Kernel → Restart & Run All** to execute the complete notebook.
+
+---
+
+## Learning Outcomes
+
+After completing this assignment, I learned:
+
+- Pandas Series
+- DataFrame operations
+- Mathematical operations
+- Lambda functions
+- Data filtering
+- Sorting and indexing
+- GroupBy operations
+- Data visualization
+- Basic data analysis
+
 ### Author
 Nipun Bhardwaj
