@@ -1,0 +1,2342 @@
+Items,numbers,Percentage,Year,Month,Daypart,DayType
+Coffee,328,1.6,2017,3,Afternoon,Weekday
+Coffee,286,1.39,2017,3,Morning,Weekday
+Coffee,242,1.18,2017,2,Afternoon,Weekday
+Coffee,236,1.15,2016,12,Afternoon,Weekday
+Coffee,230,1.12,2016,11,Morning,Weekday
+Coffee,225,1.1,2017,1,Afternoon,Weekday
+Coffee,218,1.06,2016,12,Morning,Weekday
+Coffee,216,1.05,2016,11,Afternoon,Weekday
+Coffee,181,0.88,2017,1,Morning,Weekday
+Bread,167,0.81,2016,12,Afternoon,Weekday
+Coffee,163,0.79,2017,2,Morning,Weekday
+Bread,154,0.75,2017,3,Morning,Weekday
+Bread,147,0.72,2017,3,Afternoon,Weekday
+Bread,147,0.72,2017,2,Afternoon,Weekday
+Bread,142,0.69,2016,11,Afternoon,Weekday
+Coffee,141,0.69,2017,1,Morning,Weekend
+Coffee,142,0.69,2017,1,Afternoon,Weekend
+Bread,136,0.66,2017,1,Afternoon,Weekday
+Coffee,135,0.66,2016,11,Morning,Weekend
+Bread,131,0.64,2016,11,Morning,Weekday
+Coffee,129,0.63,2016,11,Afternoon,Weekend
+Coffee,129,0.63,2017,2,Afternoon,Weekend
+Bread,125,0.61,2016,12,Morning,Weekday
+Bread,117,0.57,2017,1,Afternoon,Weekend
+Bread,115,0.56,2017,1,Morning,Weekday
+Bread,104,0.51,2017,2,Morning,Weekday
+Coffee,105,0.51,2017,2,Morning,Weekend
+Coffee,101,0.49,2016,12,Afternoon,Weekend
+Bread,99,0.48,2016,11,Morning,Weekend
+Tea,97,0.47,2017,1,Afternoon,Weekday
+Tea,92,0.45,2017,2,Afternoon,Weekday
+Bread,93,0.45,2017,1,Morning,Weekend
+Coffee,93,0.45,2017,3,Afternoon,Weekend
+Tea,90,0.44,2017,3,Afternoon,Weekday
+Sandwich,83,0.4,2017,3,Afternoon,Weekday
+Coffee,81,0.39,2016,12,Morning,Weekend
+Cake,78,0.38,2017,3,Afternoon,Weekday
+Cake,78,0.38,2017,1,Afternoon,Weekday
+Bread,73,0.36,2016,12,Morning,Weekend
+Coffee,73,0.36,2017,3,Morning,Weekend
+Tea,71,0.35,2016,11,Afternoon,Weekday
+Tea,71,0.35,2016,12,Afternoon,Weekday
+Bread,71,0.35,2016,11,Afternoon,Weekend
+Bread,69,0.34,2017,2,Morning,Weekend
+Coffee,67,0.33,2017,4,Afternoon,Weekend
+Sandwich,66,0.32,2017,2,Afternoon,Weekday
+Bread,63,0.31,2016,12,Afternoon,Weekend
+Pastry,61,0.3,2017,3,Morning,Weekday
+Coffee,61,0.3,2017,6,Afternoon,Weekday
+Cake,61,0.3,2017,2,Afternoon,Weekday
+Coffee,57,0.28,2017,6,Morning,Weekday
+Coffee,55,0.27,2016,10,Morning,Weekday
+Bread,55,0.27,2017,3,Morning,Weekend
+Bread,56,0.27,2017,2,Afternoon,Weekend
+Bread,56,0.27,2017,3,Afternoon,Weekend
+Pastry,54,0.26,2016,11,Morning,Weekday
+Coffee,54,0.26,2017,4,Morning,Weekend
+Tea,53,0.26,2017,1,Afternoon,Weekend
+Cake,51,0.25,2016,12,Afternoon,Weekday
+Sandwich,52,0.25,2016,12,Afternoon,Weekday
+Sandwich,52,0.25,2017,1,Afternoon,Weekday
+Cake,52,0.25,2017,2,Afternoon,Weekend
+Tea,49,0.24,2016,11,Morning,Weekday
+Sandwich,50,0.24,2016,11,Afternoon,Weekday
+Cookies,49,0.24,2017,3,Afternoon,Weekday
+Soup,49,0.24,2017,3,Afternoon,Weekday
+Coffee,49,0.24,2017,5,Afternoon,Weekend
+Medialuna,48,0.23,2016,11,Morning,Weekday
+Coffee,47,0.23,2017,7,Morning,Weekday
+Coffee,48,0.23,2017,10,Afternoon,Weekday
+Coffee,46,0.22,2016,2,Morning,Weekday
+Tea,45,0.22,2017,3,Morning,Weekday
+Coffee,46,0.22,2017,5,Morning,Weekend
+Coffee,45,0.22,2017,8,Afternoon,Weekend
+Cake,46,0.22,2017,1,Afternoon,Weekend
+Coffee,44,0.21,2017,10,Morning,Weekday
+Coffee,43,0.21,2017,11,Afternoon,Weekend
+Coffee,43,0.21,2017,12,Afternoon,Weekend
+Tea,42,0.2,2016,12,Morning,Weekday
+Pastry,42,0.2,2016,12,Morning,Weekday
+Coffee,41,0.2,2017,9,Morning,Weekday
+Soup,41,0.2,2016,11,Afternoon,Weekday
+Cake,42,0.2,2016,11,Afternoon,Weekday
+Hot chocolate,40,0.2,2016,12,Afternoon,Weekday
+Coffee,42,0.2,2017,7,Afternoon,Weekday
+Medialuna,40,0.2,2016,11,Morning,Weekend
+Coffee,38,0.19,2016,8,Morning,Weekday
+Medialuna,38,0.19,2016,12,Morning,Weekday
+Tea,38,0.19,2017,1,Morning,Weekday
+Coffee,38,0.19,2016,10,Afternoon,Weekday
+Bread,39,0.19,2017,6,Afternoon,Weekday
+Coffee,39,0.19,2017,9,Afternoon,Weekday
+Soup,39,0.19,2017,1,Afternoon,Weekday
+Coffee,39,0.19,2016,5,Morning,Weekend
+Coffee,38,0.19,2016,10,Afternoon,Weekend
+Bread,36,0.18,2017,10,Morning,Weekday
+Pastry,37,0.18,2017,1,Morning,Weekday
+Cookies,36,0.18,2017,1,Afternoon,Weekday
+Pastry,36,0.18,2016,11,Morning,Weekend
+Coffee,37,0.18,2017,11,Morning,Weekend
+Tea,37,0.18,2016,11,Afternoon,Weekend
+Bread,37,0.18,2017,11,Afternoon,Weekend
+Sandwich,36,0.18,2017,2,Afternoon,Weekend
+Cake,36,0.18,2017,3,Afternoon,Weekend
+Toast,34,0.17,2017,3,Morning,Weekday
+Coffee,35,0.17,2016,1,Afternoon,Weekday
+Coffee,35,0.17,2017,4,Afternoon,Weekday
+Soup,34,0.17,2017,2,Afternoon,Weekday
+Cookies,34,0.17,2017,2,Afternoon,Weekday
+Bread,34,0.17,2016,10,Morning,Weekend
+Bread,34,0.17,2017,4,Afternoon,Weekend
+Sandwich,35,0.17,2017,3,Afternoon,Weekend
+Keeping It Local,32,0.16,2016,11,Morning,Weekday
+Hot chocolate,32,0.16,2017,1,Afternoon,Weekday
+Alfajores,33,0.16,2017,2,Afternoon,Weekday
+Coffee,32,0.16,2016,10,Morning,Weekend
+Coffee,32,0.16,2016,5,Afternoon,Weekend
+Coffee,32,0.16,2017,7,Afternoon,Weekend
+Sandwich,32,0.16,2017,1,Afternoon,Weekend
+Tea,32,0.16,2017,2,Afternoon,Weekend
+Coffee,31,0.15,2016,9,Morning,Weekday
+Cookies,31,0.15,2017,3,Morning,Weekday
+Cake,30,0.15,2017,3,Morning,Weekday
+Coffee,31,0.15,2017,4,Morning,Weekday
+Bread,31,0.15,2017,6,Morning,Weekday
+Tea,31,0.15,2017,2,Morning,Weekday
+Pastry,31,0.15,2017,2,Morning,Weekday
+Bread,31,0.15,2017,7,Morning,Weekday
+Coffee,30,0.15,2016,7,Afternoon,Weekday
+Alfajores,30,0.15,2016,11,Afternoon,Weekday
+Juice,30,0.15,2017,3,Afternoon,Weekday
+Hot chocolate,30,0.15,2017,2,Afternoon,Weekday
+Pastry,30,0.15,2017,3,Afternoon,Weekday
+Bread,31,0.15,2017,4,Morning,Weekend
+Coffee,30,0.15,2017,12,Morning,Weekend
+Tea,31,0.15,2016,12,Afternoon,Weekend
+Bread,28,0.14,2016,10,Morning,Weekday
+Coffee,29,0.14,2016,7,Morning,Weekday
+Coffee,28,0.14,2016,9,Afternoon,Weekday
+Hot chocolate,28,0.14,2016,11,Afternoon,Weekday
+Bread,28,0.14,2017,10,Afternoon,Weekday
+Pastry,29,0.14,2017,2,Afternoon,Weekday
+Coffee,29,0.14,2017,8,Afternoon,Weekday
+Medialuna,28,0.14,2017,1,Morning,Weekend
+Cake,28,0.14,2017,4,Afternoon,Weekend
+Tea,28,0.14,2017,3,Afternoon,Weekend
+Coffee,27,0.13,2016,4,Morning,Weekday
+Hot chocolate,26,0.13,2016,12,Morning,Weekday
+Coffee,26,0.13,2017,5,Morning,Weekday
+Hot chocolate,26,0.13,2017,3,Afternoon,Weekday
+Medialuna,27,0.13,2016,12,Morning,Weekend
+Coffee,26,0.13,2016,3,Afternoon,Weekend
+Bread,27,0.13,2017,8,Afternoon,Weekend
+Coffee,25,0.12,2016,1,Morning,Weekday
+Cake,25,0.12,2017,1,Morning,Weekday
+Bread,24,0.12,2016,10,Afternoon,Weekday
+Bread,25,0.12,2016,1,Afternoon,Weekday
+Coffee,25,0.12,2016,8,Afternoon,Weekday
+Brownie,25,0.12,2016,11,Afternoon,Weekday
+Medialuna,24,0.12,2016,11,Afternoon,Weekday
+Coffee,25,0.12,2017,5,Afternoon,Weekday
+Sandwich,24,0.12,2017,6,Afternoon,Weekday
+Pastry,25,0.12,2017,1,Afternoon,Weekday
+Scone,24,0.12,2017,3,Afternoon,Weekday
+Chicken Stew,25,0.12,2017,3,Afternoon,Weekday
+Bread,24,0.12,2016,5,Morning,Weekend
+Bread,24,0.12,2017,8,Morning,Weekend
+Scone,24,0.12,2017,1,Morning,Weekend
+Cake,24,0.12,2017,1,Morning,Weekend
+Bread,25,0.12,2017,11,Morning,Weekend
+Medialuna,24,0.12,2017,2,Morning,Weekend
+Coffee,25,0.12,2016,6,Afternoon,Weekend
+Coffee,24,0.12,2016,4,Afternoon,Weekend
+Hot chocolate,25,0.12,2017,1,Afternoon,Weekend
+Bread,23,0.11,2016,9,Morning,Weekday
+Toast,22,0.11,2016,12,Morning,Weekday
+Toast,22,0.11,2017,1,Morning,Weekday
+Cake,23,0.11,2017,2,Morning,Weekday
+Coffee,23,0.11,2016,2,Afternoon,Weekday
+Coffee,23,0.11,2016,4,Afternoon,Weekday
+Bread,22,0.11,2016,7,Afternoon,Weekday
+Muffin,23,0.11,2016,11,Afternoon,Weekday
+Muffin,22,0.11,2017,3,Afternoon,Weekday
+Bread,23,0.11,2017,5,Afternoon,Weekday
+Chicken Stew,22,0.11,2017,1,Afternoon,Weekday
+Truffles,23,0.11,2017,3,Afternoon,Weekday
+Toast,23,0.11,2017,3,Afternoon,Weekday
+Coffee,23,0.11,2016,6,Morning,Weekend
+Coffee,23,0.11,2017,7,Morning,Weekend
+Coffee,23,0.11,2017,8,Morning,Weekend
+Pastry,22,0.11,2017,1,Morning,Weekend
+Pastry,23,0.11,2017,3,Morning,Weekend
+Bread,23,0.11,2016,10,Afternoon,Weekend
+Cake,22,0.11,2016,11,Afternoon,Weekend
+Tea,22,0.11,2017,4,Afternoon,Weekend
+Cake,23,0.11,2017,11,Afternoon,Weekend
+Bread,22,0.11,2017,12,Afternoon,Weekend
+Pastry,20,0.1,2016,10,Morning,Weekday
+Pastry,20,0.1,2016,2,Morning,Weekday
+Bread,21,0.1,2016,2,Morning,Weekday
+Bread,20,0.1,2016,4,Morning,Weekday
+Bread,21,0.1,2016,7,Morning,Weekday
+Coffee,21,0.1,2016,5,Morning,Weekday
+Coffee,20,0.1,2016,6,Morning,Weekday
+Cake,20,0.1,2016,12,Morning,Weekday
+Baguette,20,0.1,2017,3,Morning,Weekday
+Coffee,21,0.1,2016,3,Afternoon,Weekday
+Bread,21,0.1,2016,9,Afternoon,Weekday
+Cookies,20,0.1,2016,11,Afternoon,Weekday
+Coffee,20,0.1,2016,5,Afternoon,Weekday
+Juice,20,0.1,2016,12,Afternoon,Weekday
+Tea,20,0.1,2017,6,Afternoon,Weekday
+Bread,20,0.1,2017,8,Afternoon,Weekday
+Scone,21,0.1,2017,2,Afternoon,Weekday
+Salad,20,0.1,2017,3,Afternoon,Weekday
+Tshirt,21,0.1,2017,4,Evening,Weekend
+Bread,21,0.1,2016,3,Morning,Weekend
+Tea,21,0.1,2017,1,Morning,Weekend
+Pastry,20,0.1,2017,2,Morning,Weekend
+Tea,20,0.1,2016,10,Afternoon,Weekend
+Medialuna,20,0.1,2016,11,Afternoon,Weekend
+Alfajores,21,0.1,2016,11,Afternoon,Weekend
+Pastry,20,0.1,2017,1,Afternoon,Weekend
+Scone,20,0.1,2017,4,Afternoon,Weekend
+Sandwich,20,0.1,2017,4,Afternoon,Weekend
+Bread,21,0.1,2017,5,Afternoon,Weekend
+Farm House,19,0.09,2016,11,Morning,Weekday
+Farm House,18,0.09,2017,3,Morning,Weekday
+Bread,19,0.09,2017,9,Morning,Weekday
+Coffee,18,0.09,2017,12,Morning,Weekday
+Cookies,19,0.09,2017,1,Morning,Weekday
+Hot chocolate,18,0.09,2017,2,Morning,Weekday
+Hot chocolate,18,0.09,2017,3,Morning,Weekday
+Bread,18,0.09,2017,8,Morning,Weekday
+Medialuna,18,0.09,2017,2,Morning,Weekday
+Tea,19,0.09,2016,10,Afternoon,Weekday
+Hearty & Seasonal,19,0.09,2016,11,Afternoon,Weekday
+Cookies,18,0.09,2016,12,Afternoon,Weekday
+Tea,18,0.09,2017,9,Afternoon,Weekday
+Bread,19,0.09,2017,9,Afternoon,Weekday
+Cake,18,0.09,2017,10,Afternoon,Weekday
+Medialuna,18,0.09,2017,1,Afternoon,Weekday
+Bread,18,0.09,2017,7,Afternoon,Weekday
+Spanish Brunch,18,0.09,2017,3,Afternoon,Weekday
+Pastry,19,0.09,2016,12,Morning,Weekend
+Hot chocolate,19,0.09,2016,12,Morning,Weekend
+Tea,18,0.09,2016,11,Morning,Weekend
+Muffin,18,0.09,2016,11,Morning,Weekend
+Coffee,19,0.09,2016,3,Morning,Weekend
+Bread,18,0.09,2017,7,Morning,Weekend
+Bread,18,0.09,2017,12,Morning,Weekend
+Cake,19,0.09,2017,2,Morning,Weekend
+Brownie,18,0.09,2016,11,Afternoon,Weekend
+Bread,18,0.09,2017,7,Afternoon,Weekend
+Scone,18,0.09,2017,1,Afternoon,Weekend
+Pastry,16,0.08,2016,1,Morning,Weekday
+Bread,16,0.08,2016,3,Morning,Weekday
+Bread,17,0.08,2017,5,Morning,Weekday
+Coffee,16,0.08,2017,11,Morning,Weekday
+Hot chocolate,16,0.08,2017,1,Morning,Weekday
+Toast,17,0.08,2017,2,Morning,Weekday
+Sandwich,17,0.08,2017,3,Morning,Weekday
+Farm House,16,0.08,2016,11,Afternoon,Weekday
+Scandinavian,16,0.08,2016,11,Afternoon,Weekday
+Pastry,17,0.08,2016,11,Afternoon,Weekday
+Pastry,17,0.08,2016,12,Afternoon,Weekday
+Brownie,16,0.08,2016,12,Afternoon,Weekday
+Cake,16,0.08,2017,6,Afternoon,Weekday
+Coke,16,0.08,2017,1,Afternoon,Weekday
+Muffin,16,0.08,2017,1,Afternoon,Weekday
+Chicken Stew,17,0.08,2017,2,Afternoon,Weekday
+Medialuna,17,0.08,2017,2,Afternoon,Weekday
+Baguette,16,0.08,2017,2,Afternoon,Weekday
+Cake,16,0.08,2017,7,Afternoon,Weekday
+Brownie,17,0.08,2017,2,Afternoon,Weekday
+Tiffin,16,0.08,2017,3,Afternoon,Weekday
+Coke,17,0.08,2017,3,Afternoon,Weekday
+Brownie,17,0.08,2017,3,Afternoon,Weekday
+Hot chocolate,16,0.08,2016,11,Morning,Weekend
+Cookies,17,0.08,2017,1,Morning,Weekend
+Brownie,16,0.08,2017,1,Morning,Weekend
+Hot chocolate,16,0.08,2017,1,Morning,Weekend
+Brownie,17,0.08,2016,5,Afternoon,Weekend
+Hot chocolate,17,0.08,2016,12,Afternoon,Weekend
+Sandwich,16,0.08,2016,11,Afternoon,Weekend
+Muffin,16,0.08,2016,11,Afternoon,Weekend
+Alfajores,17,0.08,2017,1,Afternoon,Weekend
+Brownie,16,0.08,2017,1,Afternoon,Weekend
+Juice,16,0.08,2017,1,Afternoon,Weekend
+Tea,17,0.08,2017,11,Afternoon,Weekend
+Spanish Brunch,17,0.08,2017,2,Afternoon,Weekend
+Scone,16,0.08,2017,2,Afternoon,Weekend
+Bread,15,0.07,2016,1,Morning,Weekday
+Coffee,15,0.07,2016,3,Morning,Weekday
+Pastry,15,0.07,2016,3,Morning,Weekday
+Hot chocolate,14,0.07,2016,11,Morning,Weekday
+Muffin,15,0.07,2016,11,Morning,Weekday
+Fudge,15,0.07,2016,12,Morning,Weekday
+Bread,15,0.07,2017,4,Morning,Weekday
+Scandinavian,15,0.07,2017,1,Morning,Weekday
+Farm House,15,0.07,2017,1,Morning,Weekday
+Medialuna,15,0.07,2017,1,Morning,Weekday
+Muffin,14,0.07,2017,1,Morning,Weekday
+Cookies,15,0.07,2017,2,Morning,Weekday
+Alfajores,15,0.07,2017,2,Morning,Weekday
+Juice,15,0.07,2017,2,Morning,Weekday
+Juice,15,0.07,2017,3,Morning,Weekday
+Coffee,14,0.07,2017,8,Morning,Weekday
+Jam,14,0.07,2016,12,Afternoon,Weekday
+Truffles,14,0.07,2016,12,Afternoon,Weekday
+Toast,14,0.07,2016,12,Afternoon,Weekday
+Fudge,14,0.07,2016,12,Afternoon,Weekday
+Medialuna,15,0.07,2016,12,Afternoon,Weekday
+Mineral water,15,0.07,2017,3,Afternoon,Weekday
+Cake,14,0.07,2017,9,Afternoon,Weekday
+Tea,14,0.07,2017,10,Afternoon,Weekday
+Juice,14,0.07,2017,1,Afternoon,Weekday
+Truffles,15,0.07,2017,1,Afternoon,Weekday
+Scone,15,0.07,2017,1,Afternoon,Weekday
+Farm House,14,0.07,2017,2,Afternoon,Weekday
+Juice,15,0.07,2017,2,Afternoon,Weekday
+Bakewell,14,0.07,2017,3,Afternoon,Weekday
+Scandinavian,15,0.07,2016,10,Morning,Weekend
+Medialuna,15,0.07,2016,5,Morning,Weekend
+Brownie,14,0.07,2016,5,Morning,Weekend
+Bread,14,0.07,2016,6,Morning,Weekend
+Toast,14,0.07,2017,1,Morning,Weekend
+Bread,14,0.07,2017,5,Morning,Weekend
+Tea,14,0.07,2017,11,Morning,Weekend
+Tea,15,0.07,2017,2,Morning,Weekend
+Cake,14,0.07,2017,3,Morning,Weekend
+Tea,14,0.07,2016,6,Afternoon,Weekend
+Sandwich,14,0.07,2016,12,Afternoon,Weekend
+Muffin,15,0.07,2016,12,Afternoon,Weekend
+Farm House,15,0.07,2016,12,Afternoon,Weekend
+Hot chocolate,14,0.07,2016,11,Afternoon,Weekend
+Bread,15,0.07,2016,3,Afternoon,Weekend
+Bread,14,0.07,2016,4,Afternoon,Weekend
+Jammie Dodgers,15,0.07,2017,1,Afternoon,Weekend
+Medialuna,14,0.07,2017,1,Afternoon,Weekend
+Brownie,14,0.07,2017,4,Afternoon,Weekend
+Cake,15,0.07,2017,5,Afternoon,Weekend
+Sandwich,14,0.07,2017,11,Afternoon,Weekend
+Cake,15,0.07,2017,12,Afternoon,Weekend
+Alfajores,15,0.07,2017,2,Afternoon,Weekend
+Spanish Brunch,15,0.07,2017,3,Afternoon,Weekend
+Coffee,12,0.06,2017,2,Evening,Weekday
+Tea,12,0.06,2016,1,Morning,Weekday
+Pastry,13,0.06,2016,8,Morning,Weekday
+Scandinavian,13,0.06,2016,11,Morning,Weekday
+Brownie,13,0.06,2016,11,Morning,Weekday
+Bread,12,0.06,2016,6,Morning,Weekday
+Cookies,13,0.06,2016,12,Morning,Weekday
+Farm House,13,0.06,2016,12,Morning,Weekday
+Tea,12,0.06,2017,6,Morning,Weekday
+Toast,12,0.06,2017,6,Morning,Weekday
+Sandwich,12,0.06,2017,1,Morning,Weekday
+Juice,12,0.06,2017,1,Morning,Weekday
+Medialuna,13,0.06,2017,3,Morning,Weekday
+Muffin,13,0.06,2017,3,Morning,Weekday
+Muffin,12,0.06,2016,10,Afternoon,Weekday
+Tea,13,0.06,2016,1,Afternoon,Weekday
+Bread,13,0.06,2016,2,Afternoon,Weekday
+Tea,12,0.06,2016,2,Afternoon,Weekday
+Sandwich,13,0.06,2016,2,Afternoon,Weekday
+Mineral water,13,0.06,2016,11,Afternoon,Weekday
+Fudge,12,0.06,2016,11,Afternoon,Weekday
+Bread,12,0.06,2016,6,Afternoon,Weekday
+Coffee,13,0.06,2016,6,Afternoon,Weekday
+Farm House,13,0.06,2016,12,Afternoon,Weekday
+Coke,12,0.06,2016,12,Afternoon,Weekday
+Bread,13,0.06,2017,4,Afternoon,Weekday
+Sandwich,12,0.06,2017,5,Afternoon,Weekday
+Sandwich,13,0.06,2017,9,Afternoon,Weekday
+Sandwich,12,0.06,2017,10,Afternoon,Weekday
+Coke,12,0.06,2017,2,Afternoon,Weekday
+Baguette,13,0.06,2017,3,Afternoon,Weekday
+Tea,13,0.06,2017,7,Afternoon,Weekday
+Tea,12,0.06,2017,8,Afternoon,Weekday
+Truffles,13,0.06,2017,2,Afternoon,Weekday
+Toast,13,0.06,2017,2,Afternoon,Weekday
+Medialuna,12,0.06,2016,10,Morning,Weekend
+Tiffin,12,0.06,2017,1,Morning,Weekend
+Farm House,12,0.06,2017,1,Morning,Weekend
+Pastry,13,0.06,2017,4,Morning,Weekend
+Pastry,13,0.06,2017,5,Morning,Weekend
+Medialuna,13,0.06,2017,3,Morning,Weekend
+Frittata,12,0.06,2016,10,Afternoon,Weekend
+Bread,12,0.06,2016,5,Afternoon,Weekend
+Alfajores,13,0.06,2016,6,Afternoon,Weekend
+Frittata,12,0.06,2016,12,Afternoon,Weekend
+Mineral water,12,0.06,2016,11,Afternoon,Weekend
+Tea,13,0.06,2017,7,Afternoon,Weekend
+Sandwich,13,0.06,2017,8,Afternoon,Weekend
+Cake,13,0.06,2017,8,Afternoon,Weekend
+Soup,12,0.06,2017,4,Afternoon,Weekend
+Tea,12,0.06,2017,12,Afternoon,Weekend
+Juice,13,0.06,2017,2,Afternoon,Weekend
+Soup,13,0.06,2017,2,Afternoon,Weekend
+Cookies,12,0.06,2017,2,Afternoon,Weekend
+Hot chocolate,12,0.06,2017,3,Afternoon,Weekend
+Scone,12,0.06,2017,3,Afternoon,Weekend
+Bread,10,0.05,2016,11,Evening,Weekday
+Cookies,11,0.05,2016,10,Morning,Weekday
+Tea,11,0.05,2016,7,Morning,Weekday
+Bread,10,0.05,2016,8,Morning,Weekday
+Cake,11,0.05,2016,11,Morning,Weekday
+Tea,10,0.05,2017,5,Morning,Weekday
+Pastry,11,0.05,2017,10,Morning,Weekday
+Bread,10,0.05,2017,11,Morning,Weekday
+Farm House,10,0.05,2017,2,Morning,Weekday
+Baguette,11,0.05,2017,2,Morning,Weekday
+Brownie,11,0.05,2017,2,Morning,Weekday
+Pastry,10,0.05,2017,6,Morning,Weekday
+Tiffin,10,0.05,2017,3,Morning,Weekday
+Soup,10,0.05,2016,10,Afternoon,Weekday
+Bread,10,0.05,2016,4,Afternoon,Weekday
+Tea,10,0.05,2016,8,Afternoon,Weekday
+Jammie Dodgers,10,0.05,2016,12,Afternoon,Weekday
+Scone,11,0.05,2016,12,Afternoon,Weekday
+Cake,11,0.05,2017,4,Afternoon,Weekday
+Tea,11,0.05,2017,4,Afternoon,Weekday
+Juice,10,0.05,2017,6,Afternoon,Weekday
+Coffee,11,0.05,2017,11,Afternoon,Weekday
+Salad,11,0.05,2017,1,Afternoon,Weekday
+Toast,11,0.05,2017,1,Afternoon,Weekday
+Farm House,10,0.05,2017,1,Afternoon,Weekday
+Alfajores,11,0.05,2017,1,Afternoon,Weekday
+Spanish Brunch,10,0.05,2017,1,Afternoon,Weekday
+Baguette,10,0.05,2017,1,Afternoon,Weekday
+Spanish Brunch,10,0.05,2017,2,Afternoon,Weekday
+Soup,11,0.05,2017,7,Afternoon,Weekday
+Soup,10,0.05,2017,9,Afternoon,Weekday
+Muffin,10,0.05,2017,2,Afternoon,Weekday
+Tiffin,10,0.05,2017,2,Afternoon,Weekday
+Medialuna,10,0.05,2017,3,Afternoon,Weekday
+Cake,10,0.05,2017,5,Afternoon,Weekday
+Postcard,10,0.05,2017,4,Evening,Weekend
+Pastry,10,0.05,2016,10,Morning,Weekend
+Tea,10,0.05,2016,10,Morning,Weekend
+Pastry,10,0.05,2016,6,Morning,Weekend
+Farm House,11,0.05,2016,12,Morning,Weekend
+Farm House,10,0.05,2016,11,Morning,Weekend
+Keeping It Local,11,0.05,2016,11,Morning,Weekend
+Coffee,11,0.05,2016,4,Morning,Weekend
+Scone,10,0.05,2016,12,Morning,Weekend
+Juice,11,0.05,2017,1,Morning,Weekend
+Baguette,10,0.05,2017,1,Morning,Weekend
+Pastry,11,0.05,2017,11,Morning,Weekend
+Tea,10,0.05,2017,3,Morning,Weekend
+Spanish Brunch,10,0.05,2017,3,Morning,Weekend
+Muffin,11,0.05,2017,3,Morning,Weekend
+Coffee,10,0.05,2017,9,Morning,Weekend
+Brownie,11,0.05,2016,12,Afternoon,Weekend
+Alfajores,11,0.05,2016,12,Afternoon,Weekend
+Cookies,11,0.05,2016,12,Afternoon,Weekend
+Hearty & Seasonal,10,0.05,2016,11,Afternoon,Weekend
+Scandinavian,11,0.05,2016,11,Afternoon,Weekend
+Cake,10,0.05,2016,3,Afternoon,Weekend
+Scone,10,0.05,2016,3,Afternoon,Weekend
+Medialuna,10,0.05,2016,12,Afternoon,Weekend
+Cake,10,0.05,2016,12,Afternoon,Weekend
+Sandwich,11,0.05,2017,7,Afternoon,Weekend
+Tea,11,0.05,2017,8,Afternoon,Weekend
+Tiffin,10,0.05,2017,1,Afternoon,Weekend
+Toast,11,0.05,2017,1,Afternoon,Weekend
+Frittata,11,0.05,2017,1,Afternoon,Weekend
+Cookies,11,0.05,2017,1,Afternoon,Weekend
+Spanish Brunch,11,0.05,2017,1,Afternoon,Weekend
+Soup,11,0.05,2017,1,Afternoon,Weekend
+Cookies,11,0.05,2017,4,Afternoon,Weekend
+Sandwich,11,0.05,2017,5,Afternoon,Weekend
+Tiffin,11,0.05,2017,2,Afternoon,Weekend
+Salad,10,0.05,2017,3,Afternoon,Weekend
+Brownie,11,0.05,2017,3,Afternoon,Weekend
+Juice,11,0.05,2017,3,Afternoon,Weekend
+Tea,9,0.04,2016,11,Evening,Weekday
+Coffee,9,0.04,2016,11,Evening,Weekday
+Coffee,8,0.04,2016,12,Evening,Weekday
+Cake,8,0.04,2017,2,Evening,Weekday
+Tea,8,0.04,2017,2,Evening,Weekday
+Medialuna,8,0.04,2016,10,Morning,Weekday
+Tea,9,0.04,2016,10,Morning,Weekday
+Farm House,8,0.04,2016,10,Morning,Weekday
+Farm House,8,0.04,2016,2,Morning,Weekday
+Tea,8,0.04,2016,4,Morning,Weekday
+Muffin,8,0.04,2016,7,Morning,Weekday
+Alfajores,8,0.04,2016,11,Morning,Weekday
+Cookies,9,0.04,2016,11,Morning,Weekday
+Bread,8,0.04,2016,5,Morning,Weekday
+Jam,9,0.04,2016,12,Morning,Weekday
+Sandwich,9,0.04,2016,12,Morning,Weekday
+Cookies,9,0.04,2017,6,Morning,Weekday
+Cookies,9,0.04,2017,10,Morning,Weekday
+Alfajores,8,0.04,2017,1,Morning,Weekday
+Scandinavian,9,0.04,2017,3,Morning,Weekday
+Tea,8,0.04,2017,7,Morning,Weekday
+Pastry,9,0.04,2017,7,Morning,Weekday
+Jammie Dodgers,9,0.04,2017,3,Morning,Weekday
+Brownie,9,0.04,2017,3,Morning,Weekday
+Cookies,9,0.04,2016,10,Afternoon,Weekday
+Hearty & Seasonal,8,0.04,2016,10,Afternoon,Weekday
+Soup,8,0.04,2016,2,Afternoon,Weekday
+Bread,9,0.04,2016,3,Afternoon,Weekday
+Alfajores,8,0.04,2016,3,Afternoon,Weekday
+Brownie,9,0.04,2016,4,Afternoon,Weekday
+Tea,8,0.04,2016,7,Afternoon,Weekday
+Farm House,8,0.04,2016,8,Afternoon,Weekday
+Brownie,8,0.04,2016,9,Afternoon,Weekday
+Art Tray,9,0.04,2016,11,Afternoon,Weekday
+Coke,9,0.04,2016,11,Afternoon,Weekday
+Juice,8,0.04,2016,11,Afternoon,Weekday
+Bread,9,0.04,2016,5,Afternoon,Weekday
+Vegan mincepie,9,0.04,2016,12,Afternoon,Weekday
+Frittata,9,0.04,2016,12,Afternoon,Weekday
+Scone,8,0.04,2017,10,Afternoon,Weekday
+Mineral water,9,0.04,2017,2,Afternoon,Weekday
+Farm House,9,0.04,2017,3,Afternoon,Weekday
+Soup,9,0.04,2017,6,Afternoon,Weekday
+Sandwich,9,0.04,2017,8,Afternoon,Weekday
+Soup,9,0.04,2017,8,Afternoon,Weekday
+Pastry,8,0.04,2017,9,Afternoon,Weekday
+Cookies,8,0.04,2017,10,Afternoon,Weekday
+Jammie Dodgers,8,0.04,2017,2,Afternoon,Weekday
+Coffee,8,0.04,2017,4,Evening,Weekend
+Muffin,8,0.04,2016,10,Morning,Weekend
+Scandinavian,9,0.04,2016,5,Morning,Weekend
+Tea,9,0.04,2016,12,Morning,Weekend
+Scandinavian,9,0.04,2016,11,Morning,Weekend
+Cake,9,0.04,2016,11,Morning,Weekend
+Bread,8,0.04,2016,4,Morning,Weekend
+Pastry,9,0.04,2017,8,Morning,Weekend
+Alfajores,9,0.04,2017,1,Morning,Weekend
+Hot chocolate,8,0.04,2017,5,Morning,Weekend
+Pastry,9,0.04,2017,12,Morning,Weekend
+Scone,8,0.04,2017,2,Morning,Weekend
+Juice,8,0.04,2017,2,Morning,Weekend
+Hot chocolate,8,0.04,2017,2,Morning,Weekend
+Scone,8,0.04,2017,4,Morning,Weekend
+Bread,9,0.04,2016,6,Afternoon,Weekend
+Scandinavian,8,0.04,2016,12,Afternoon,Weekend
+Cookies,9,0.04,2016,11,Afternoon,Weekend
+Farm House,8,0.04,2016,11,Afternoon,Weekend
+Bakewell,8,0.04,2016,11,Afternoon,Weekend
+Tea,8,0.04,2016,3,Afternoon,Weekend
+Sandwich,8,0.04,2016,3,Afternoon,Weekend
+Scone,8,0.04,2017,7,Afternoon,Weekend
+Juice,9,0.04,2017,8,Afternoon,Weekend
+Scandinavian,9,0.04,2017,1,Afternoon,Weekend
+Truffles,8,0.04,2017,1,Afternoon,Weekend
+Hot chocolate,9,0.04,2017,4,Afternoon,Weekend
+Tea,9,0.04,2017,5,Afternoon,Weekend
+Pastry,8,0.04,2017,5,Afternoon,Weekend
+Scone,8,0.04,2017,11,Afternoon,Weekend
+Jammie Dodgers,8,0.04,2017,2,Afternoon,Weekend
+Hot chocolate,9,0.04,2017,2,Afternoon,Weekend
+Chicken Stew,9,0.04,2017,2,Afternoon,Weekend
+Pastry,8,0.04,2017,2,Afternoon,Weekend
+Soup,9,0.04,2017,3,Afternoon,Weekend
+Cookies,8,0.04,2017,3,Afternoon,Weekend
+Smoothies,9,0.04,2017,3,Afternoon,Weekend
+Muffin,8,0.04,2017,3,Afternoon,Weekend
+Coke,8,0.04,2017,3,Afternoon,Weekend
+Coffee,6,0.03,2017,3,Evening,Weekday
+Tea,7,0.03,2017,1,Evening,Weekday
+Bread,6,0.03,2017,3,Evening,Weekday
+Bread,7,0.03,2017,2,Evening,Weekday
+Juice,6,0.03,2016,10,Morning,Weekday
+Tea,7,0.03,2016,2,Morning,Weekday
+Medialuna,7,0.03,2016,3,Morning,Weekday
+Farm House,6,0.03,2016,3,Morning,Weekday
+Medialuna,6,0.03,2016,4,Morning,Weekday
+Brownie,6,0.03,2016,4,Morning,Weekday
+Pastry,7,0.03,2016,7,Morning,Weekday
+Medialuna,7,0.03,2016,7,Morning,Weekday
+Tea,6,0.03,2016,8,Morning,Weekday
+Medialuna,7,0.03,2016,9,Morning,Weekday
+Tea,6,0.03,2016,9,Morning,Weekday
+Truffles,6,0.03,2016,11,Morning,Weekday
+Alfajores,6,0.03,2016,12,Morning,Weekday
+Vegan mincepie,7,0.03,2016,12,Morning,Weekday
+Muffin,7,0.03,2016,12,Morning,Weekday
+Juice,7,0.03,2016,12,Morning,Weekday
+Brownie,6,0.03,2016,12,Morning,Weekday
+Hot chocolate,7,0.03,2017,5,Morning,Weekday
+Medialuna,6,0.03,2017,6,Morning,Weekday
+Pastry,7,0.03,2017,9,Morning,Weekday
+Toast,7,0.03,2017,9,Morning,Weekday
+Cookies,7,0.03,2017,9,Morning,Weekday
+Tea,7,0.03,2017,10,Morning,Weekday
+Tea,6,0.03,2017,12,Morning,Weekday
+Bread,7,0.03,2017,12,Morning,Weekday
+Baguette,7,0.03,2017,1,Morning,Weekday
+Sandwich,7,0.03,2017,2,Morning,Weekday
+Alfajores,6,0.03,2017,3,Morning,Weekday
+Pastry,7,0.03,2017,8,Morning,Weekday
+Scone,7,0.03,2017,2,Morning,Weekday
+Cookies,7,0.03,2017,7,Morning,Weekday
+Pastry,6,0.03,2017,5,Morning,Weekday
+Sandwich,6,0.03,2016,10,Afternoon,Weekday
+Scandinavian,6,0.03,2016,1,Afternoon,Weekday
+Soup,6,0.03,2016,1,Afternoon,Weekday
+Pastry,6,0.03,2016,1,Afternoon,Weekday
+Cake,7,0.03,2016,1,Afternoon,Weekday
+Hearty & Seasonal,6,0.03,2016,2,Afternoon,Weekday
+Juice,6,0.03,2016,2,Afternoon,Weekday
+Brownie,7,0.03,2016,3,Afternoon,Weekday
+Cake,6,0.03,2016,3,Afternoon,Weekday
+Scandinavian,6,0.03,2016,7,Afternoon,Weekday
+Brownie,7,0.03,2016,8,Afternoon,Weekday
+Soup,6,0.03,2016,8,Afternoon,Weekday
+Tea,7,0.03,2016,9,Afternoon,Weekday
+Brownie,6,0.03,2016,10,Afternoon,Weekday
+Truffles,6,0.03,2016,11,Afternoon,Weekday
+Keeping It Local,6,0.03,2016,11,Afternoon,Weekday
+Tiffin,7,0.03,2016,11,Afternoon,Weekday
+Scone,6,0.03,2016,2,Afternoon,Weekday
+Sandwich,7,0.03,2016,5,Afternoon,Weekday
+Tea,7,0.03,2016,6,Afternoon,Weekday
+Muffin,6,0.03,2016,12,Afternoon,Weekday
+Alfajores,7,0.03,2016,12,Afternoon,Weekday
+Juice,6,0.03,2017,4,Afternoon,Weekday
+Cookies,7,0.03,2017,5,Afternoon,Weekday
+Cookies,7,0.03,2017,9,Afternoon,Weekday
+Bread,7,0.03,2017,11,Afternoon,Weekday
+Cake,7,0.03,2017,11,Afternoon,Weekday
+Brownie,7,0.03,2017,1,Afternoon,Weekday
+Salad,7,0.03,2017,2,Afternoon,Weekday
+Eggs,6,0.03,2017,3,Afternoon,Weekday
+Toast,6,0.03,2017,6,Afternoon,Weekday
+Truffles,6,0.03,2017,6,Afternoon,Weekday
+Brownie,6,0.03,2017,6,Afternoon,Weekday
+Alfajores,6,0.03,2017,7,Afternoon,Weekday
+Chicken Stew,6,0.03,2017,7,Afternoon,Weekday
+Spanish Brunch,7,0.03,2017,7,Afternoon,Weekday
+Cake,7,0.03,2017,8,Afternoon,Weekday
+Truffles,6,0.03,2017,10,Afternoon,Weekday
+Soup,7,0.03,2017,10,Afternoon,Weekday
+Spanish Brunch,6,0.03,2017,10,Afternoon,Weekday
+Smoothies,6,0.03,2017,2,Afternoon,Weekday
+Sandwich,6,0.03,2017,7,Afternoon,Weekday
+Jammie Dodgers,6,0.03,2017,3,Afternoon,Weekday
+Vegan Feast,7,0.03,2017,8,Night,Weekend
+Pintxos,6,0.03,2016,12,Evening,Weekend
+Coffee,6,0.03,2017,11,Evening,Weekend
+Afternoon with the baker,6,0.03,2017,5,Evening,Weekend
+Farm House,6,0.03,2016,10,Morning,Weekend
+Fudge,7,0.03,2016,5,Morning,Weekend
+Hot chocolate,7,0.03,2016,5,Morning,Weekend
+Hot chocolate,6,0.03,2016,6,Morning,Weekend
+Jam,6,0.03,2016,12,Morning,Weekend
+Muffin,6,0.03,2016,12,Morning,Weekend
+Scandinavian,7,0.03,2016,12,Morning,Weekend
+Brownie,7,0.03,2016,11,Morning,Weekend
+Alfajores,7,0.03,2016,11,Morning,Weekend
+Juice,7,0.03,2016,11,Morning,Weekend
+Medialuna,6,0.03,2016,3,Morning,Weekend
+Scone,6,0.03,2016,3,Morning,Weekend
+Cake,7,0.03,2016,12,Morning,Weekend
+Pastry,6,0.03,2017,7,Morning,Weekend
+The Nomad,6,0.03,2017,1,Morning,Weekend
+Cake,6,0.03,2017,4,Morning,Weekend
+Baguette,6,0.03,2017,4,Morning,Weekend
+Farm House,6,0.03,2017,4,Morning,Weekend
+Tea,6,0.03,2017,5,Morning,Weekend
+Scone,6,0.03,2017,5,Morning,Weekend
+Medialuna,6,0.03,2017,11,Morning,Weekend
+Toast,7,0.03,2017,11,Morning,Weekend
+Cake,7,0.03,2017,11,Morning,Weekend
+Cookies,6,0.03,2017,11,Morning,Weekend
+Cake,6,0.03,2017,12,Morning,Weekend
+Scone,6,0.03,2017,12,Morning,Weekend
+Scandinavian,7,0.03,2017,2,Morning,Weekend
+Alfajores,7,0.03,2017,2,Morning,Weekend
+Brownie,7,0.03,2017,2,Morning,Weekend
+Toast,7,0.03,2017,2,Morning,Weekend
+Cookies,6,0.03,2017,2,Morning,Weekend
+Sandwich,6,0.03,2017,3,Morning,Weekend
+Hot chocolate,6,0.03,2017,3,Morning,Weekend
+Cookies,7,0.03,2017,3,Morning,Weekend
+Toast,6,0.03,2017,3,Morning,Weekend
+Scandinavian,6,0.03,2017,3,Morning,Weekend
+Juice,7,0.03,2017,3,Morning,Weekend
+Scandinavian,7,0.03,2016,10,Afternoon,Weekend
+Hot chocolate,6,0.03,2016,10,Afternoon,Weekend
+Juice,6,0.03,2016,10,Afternoon,Weekend
+Frittata,7,0.03,2016,5,Afternoon,Weekend
+Tea,7,0.03,2016,5,Afternoon,Weekend
+Cake,6,0.03,2016,5,Afternoon,Weekend
+Tartine,6,0.03,2016,6,Afternoon,Weekend
+Cake,6,0.03,2016,6,Afternoon,Weekend
+Fudge,7,0.03,2016,12,Afternoon,Weekend
+Kids biscuit,7,0.03,2016,11,Afternoon,Weekend
+Hot chocolate,6,0.03,2016,3,Afternoon,Weekend
+Muffin,6,0.03,2016,3,Afternoon,Weekend
+Medialuna,6,0.03,2016,4,Afternoon,Weekend
+Sandwich,7,0.03,2016,10,Afternoon,Weekend
+Scone,7,0.03,2016,12,Afternoon,Weekend
+Vegan mincepie,6,0.03,2016,12,Afternoon,Weekend
+Scandinavian,6,0.03,2017,8,Afternoon,Weekend
+Hearty & Seasonal,7,0.03,2017,1,Afternoon,Weekend
+Muffin,6,0.03,2017,1,Afternoon,Weekend
+Smoothies,7,0.03,2017,1,Afternoon,Weekend
+Salad,6,0.03,2017,1,Afternoon,Weekend
+Pastry,6,0.03,2017,4,Afternoon,Weekend
+Scandinavian,7,0.03,2017,4,Afternoon,Weekend
+Spanish Brunch,7,0.03,2017,4,Afternoon,Weekend
+Juice,6,0.03,2017,4,Afternoon,Weekend
+Salad,6,0.03,2017,4,Afternoon,Weekend
+Cookies,6,0.03,2017,5,Afternoon,Weekend
+Alfajores,7,0.03,2017,5,Afternoon,Weekend
+Hot chocolate,7,0.03,2017,11,Afternoon,Weekend
+Pastry,6,0.03,2017,11,Afternoon,Weekend
+Spanish Brunch,7,0.03,2017,12,Afternoon,Weekend
+Hot chocolate,7,0.03,2017,12,Afternoon,Weekend
+Cookies,7,0.03,2017,12,Afternoon,Weekend
+Toast,6,0.03,2017,2,Afternoon,Weekend
+Brownie,7,0.03,2017,2,Afternoon,Weekend
+Farm House,7,0.03,2017,2,Afternoon,Weekend
+Coke,6,0.03,2017,2,Afternoon,Weekend
+Mineral water,7,0.03,2017,3,Afternoon,Weekend
+Tacos/Fajita,7,0.03,2017,8,Afternoon,Weekend
+Coffee,7,0.03,2017,9,Afternoon,Weekend
+Bread,6,0.03,2017,9,Afternoon,Weekend
+Coffee,4,0.02,2016,10,Evening,Weekday
+Coffee,4,0.02,2016,3,Evening,Weekday
+Coffee,4,0.02,2016,7,Evening,Weekday
+Scandinavian,4,0.02,2016,11,Evening,Weekday
+Medialuna,4,0.02,2016,11,Evening,Weekday
+Fudge,4,0.02,2016,12,Evening,Weekday
+Jam,4,0.02,2016,12,Evening,Weekday
+Bread,5,0.02,2016,12,Evening,Weekday
+Cake,5,0.02,2017,3,Evening,Weekday
+Cookies,5,0.02,2017,1,Evening,Weekday
+Coffee,5,0.02,2017,1,Evening,Weekday
+Tea,4,0.02,2017,3,Evening,Weekday
+Cake,5,0.02,2016,10,Morning,Weekday
+Jam,4,0.02,2016,10,Morning,Weekday
+Muffin,4,0.02,2016,10,Morning,Weekday
+Tea,5,0.02,2016,3,Morning,Weekday
+Jam,4,0.02,2016,3,Morning,Weekday
+Jam,5,0.02,2016,4,Morning,Weekday
+Pastry,4,0.02,2016,4,Morning,Weekday
+Farm House,4,0.02,2016,7,Morning,Weekday
+Alfajores,4,0.02,2016,7,Morning,Weekday
+Medialuna,4,0.02,2016,8,Morning,Weekday
+Alfajores,4,0.02,2016,8,Morning,Weekday
+Sandwich,4,0.02,2016,11,Morning,Weekday
+Jam,5,0.02,2016,11,Morning,Weekday
+Soup,4,0.02,2016,11,Morning,Weekday
+Pastry,5,0.02,2016,5,Morning,Weekday
+Medialuna,4,0.02,2016,5,Morning,Weekday
+Pastry,5,0.02,2016,6,Morning,Weekday
+Medialuna,4,0.02,2016,6,Morning,Weekday
+Toast,4,0.02,2016,7,Morning,Weekday
+Cake,5,0.02,2016,8,Morning,Weekday
+Scandinavian,4,0.02,2016,12,Morning,Weekday
+Muesli,4,0.02,2016,12,Morning,Weekday
+Smoothies,4,0.02,2016,12,Morning,Weekday
+Cake,4,0.02,2017,4,Morning,Weekday
+Toast,5,0.02,2017,5,Morning,Weekday
+Cake,5,0.02,2017,6,Morning,Weekday
+Tea,5,0.02,2017,9,Morning,Weekday
+Juice,4,0.02,2017,9,Morning,Weekday
+Medialuna,4,0.02,2017,9,Morning,Weekday
+Farm House,4,0.02,2017,9,Morning,Weekday
+Hot chocolate,4,0.02,2017,10,Morning,Weekday
+Cake,5,0.02,2017,10,Morning,Weekday
+Muffin,4,0.02,2017,11,Morning,Weekday
+Medialuna,4,0.02,2017,11,Morning,Weekday
+Toast,4,0.02,2017,12,Morning,Weekday
+Coke,5,0.02,2017,3,Morning,Weekday
+Truffles,4,0.02,2017,3,Morning,Weekday
+Scone,4,0.02,2017,3,Morning,Weekday
+Farm House,5,0.02,2017,6,Morning,Weekday
+Hot chocolate,4,0.02,2017,7,Morning,Weekday
+Toast,4,0.02,2017,7,Morning,Weekday
+Juice,4,0.02,2017,10,Morning,Weekday
+Jammie Dodgers,4,0.02,2017,2,Morning,Weekday
+Spanish Brunch,4,0.02,2017,2,Morning,Weekday
+Mineral water,4,0.02,2017,3,Morning,Weekday
+Spanish Brunch,5,0.02,2017,3,Morning,Weekday
+Christmas common,4,0.02,2017,3,Morning,Weekday
+Bakewell,5,0.02,2017,3,Morning,Weekday
+Pastry,4,0.02,2017,4,Morning,Weekday
+Juice,4,0.02,2017,6,Morning,Weekday
+Hot chocolate,5,0.02,2016,10,Afternoon,Weekday
+Muffin,5,0.02,2016,1,Afternoon,Weekday
+Cookies,5,0.02,2016,1,Afternoon,Weekday
+Sandwich,5,0.02,2016,1,Afternoon,Weekday
+Alfajores,5,0.02,2016,1,Afternoon,Weekday
+Alfajores,5,0.02,2016,2,Afternoon,Weekday
+Mineral water,4,0.02,2016,2,Afternoon,Weekday
+Cookies,5,0.02,2016,2,Afternoon,Weekday
+Hearty & Seasonal,4,0.02,2016,3,Afternoon,Weekday
+Sandwich,5,0.02,2016,3,Afternoon,Weekday
+Focaccia,4,0.02,2016,3,Afternoon,Weekday
+Soup,4,0.02,2016,4,Afternoon,Weekday
+Scandinavian,4,0.02,2016,4,Afternoon,Weekday
+Mineral water,4,0.02,2016,4,Afternoon,Weekday
+Hearty & Seasonal,4,0.02,2016,4,Afternoon,Weekday
+Alfajores,4,0.02,2016,4,Afternoon,Weekday
+Tea,5,0.02,2016,4,Afternoon,Weekday
+Coke,5,0.02,2016,7,Afternoon,Weekday
+Muffin,5,0.02,2016,7,Afternoon,Weekday
+Medialuna,4,0.02,2016,7,Afternoon,Weekday
+Sandwich,5,0.02,2016,7,Afternoon,Weekday
+Medialuna,4,0.02,2016,8,Afternoon,Weekday
+Alfajores,5,0.02,2016,8,Afternoon,Weekday
+Sandwich,5,0.02,2016,8,Afternoon,Weekday
+Hearty & Seasonal,5,0.02,2016,8,Afternoon,Weekday
+Bread,5,0.02,2016,8,Afternoon,Weekday
+Soup,5,0.02,2016,9,Afternoon,Weekday
+Hearty & Seasonal,4,0.02,2016,9,Afternoon,Weekday
+Fudge,4,0.02,2016,9,Afternoon,Weekday
+Sandwich,5,0.02,2016,9,Afternoon,Weekday
+Alfajores,4,0.02,2016,10,Afternoon,Weekday
+Jam,5,0.02,2016,11,Afternoon,Weekday
+Alfajores,5,0.02,2016,5,Afternoon,Weekday
+Tea,4,0.02,2016,5,Afternoon,Weekday
+Muffin,4,0.02,2016,5,Afternoon,Weekday
+Scone,4,0.02,2016,9,Afternoon,Weekday
+Mineral water,5,0.02,2016,12,Afternoon,Weekday
+Scandinavian,5,0.02,2016,12,Afternoon,Weekday
+Hearty & Seasonal,5,0.02,2016,12,Afternoon,Weekday
+Cookies,5,0.02,2017,4,Afternoon,Weekday
+Sandwich,4,0.02,2017,4,Afternoon,Weekday
+Brownie,5,0.02,2017,4,Afternoon,Weekday
+Tea,5,0.02,2017,5,Afternoon,Weekday
+Truffles,5,0.02,2017,5,Afternoon,Weekday
+Pastry,4,0.02,2017,5,Afternoon,Weekday
+Juice,4,0.02,2017,5,Afternoon,Weekday
+Muffin,4,0.02,2017,6,Afternoon,Weekday
+Coke,4,0.02,2017,6,Afternoon,Weekday
+Pastry,4,0.02,2017,6,Afternoon,Weekday
+Farm House,4,0.02,2017,6,Afternoon,Weekday
+Scone,4,0.02,2017,6,Afternoon,Weekday
+Medialuna,4,0.02,2017,9,Afternoon,Weekday
+Coke,5,0.02,2017,9,Afternoon,Weekday
+Juice,5,0.02,2017,9,Afternoon,Weekday
+Scone,4,0.02,2017,9,Afternoon,Weekday
+Scandinavian,4,0.02,2017,10,Afternoon,Weekday
+Coke,4,0.02,2017,10,Afternoon,Weekday
+Pastry,4,0.02,2017,10,Afternoon,Weekday
+Tea,4,0.02,2017,11,Afternoon,Weekday
+Bread,4,0.02,2017,12,Afternoon,Weekday
+Coffee,5,0.02,2017,12,Afternoon,Weekday
+Vegan mincepie,4,0.02,2017,1,Afternoon,Weekday
+Jammie Dodgers,5,0.02,2017,1,Afternoon,Weekday
+Tiffin,4,0.02,2017,1,Afternoon,Weekday
+Scandinavian,4,0.02,2017,1,Afternoon,Weekday
+Focaccia,4,0.02,2017,1,Afternoon,Weekday
+Scandinavian,5,0.02,2017,2,Afternoon,Weekday
+Afternoon with the baker,5,0.02,2017,3,Afternoon,Weekday
+Alfajores,4,0.02,2017,3,Afternoon,Weekday
+Alfajores,4,0.02,2017,6,Afternoon,Weekday
+Cookies,4,0.02,2017,6,Afternoon,Weekday
+Farm House,5,0.02,2017,7,Afternoon,Weekday
+Pastry,5,0.02,2017,7,Afternoon,Weekday
+Hot chocolate,4,0.02,2017,7,Afternoon,Weekday
+Truffles,4,0.02,2017,7,Afternoon,Weekday
+Pastry,4,0.02,2017,8,Afternoon,Weekday
+Chicken Stew,4,0.02,2017,8,Afternoon,Weekday
+Brownie,4,0.02,2017,8,Afternoon,Weekday
+Chicken Stew,5,0.02,2017,9,Afternoon,Weekday
+Chicken Stew,4,0.02,2017,10,Afternoon,Weekday
+Salad,4,0.02,2017,10,Afternoon,Weekday
+Salad,4,0.02,2017,6,Afternoon,Weekday
+Salad,4,0.02,2017,7,Afternoon,Weekday
+Tiffin,5,0.02,2017,7,Afternoon,Weekday
+Toast,4,0.02,2017,7,Afternoon,Weekday
+Tiffin,4,0.02,2017,10,Afternoon,Weekday
+Extra Salami or Feta,4,0.02,2017,3,Afternoon,Weekday
+Jam,5,0.02,2017,3,Afternoon,Weekday
+Salad,4,0.02,2017,4,Afternoon,Weekday
+Tiffin,4,0.02,2017,5,Afternoon,Weekday
+Hot chocolate,4,0.02,2017,4,Evening,Weekend
+Tea,4,0.02,2017,4,Evening,Weekend
+Coke,4,0.02,2017,4,Evening,Weekend
+Valentine's card,4,0.02,2017,4,Evening,Weekend
+Bread,4,0.02,2017,11,Evening,Weekend
+Jam,5,0.02,2016,10,Morning,Weekend
+Jam,5,0.02,2016,5,Morning,Weekend
+Cake,5,0.02,2016,5,Morning,Weekend
+Tea,5,0.02,2016,5,Morning,Weekend
+Jam,4,0.02,2016,6,Morning,Weekend
+Medialuna,4,0.02,2016,6,Morning,Weekend
+Farm House,5,0.02,2016,6,Morning,Weekend
+Muffin,5,0.02,2016,6,Morning,Weekend
+Brownie,5,0.02,2016,12,Morning,Weekend
+Alfajores,4,0.02,2016,12,Morning,Weekend
+Tartine,4,0.02,2016,11,Morning,Weekend
+Jam,5,0.02,2016,11,Morning,Weekend
+Focaccia,4,0.02,2016,11,Morning,Weekend
+Fudge,4,0.02,2016,11,Morning,Weekend
+Jammie Dodgers,4,0.02,2016,11,Morning,Weekend
+Bakewell,4,0.02,2016,11,Morning,Weekend
+Scandinavian,4,0.02,2016,3,Morning,Weekend
+Pastry,4,0.02,2016,3,Morning,Weekend
+Medialuna,4,0.02,2016,4,Morning,Weekend
+Toast,4,0.02,2016,4,Morning,Weekend
+Scone,4,0.02,2016,10,Morning,Weekend
+Fudge,5,0.02,2016,12,Morning,Weekend
+Juice,5,0.02,2016,12,Morning,Weekend
+Cookies,5,0.02,2016,12,Morning,Weekend
+Vegan mincepie,5,0.02,2016,12,Morning,Weekend
+Toast,4,0.02,2016,12,Morning,Weekend
+Medialuna,5,0.02,2017,7,Morning,Weekend
+Medialuna,4,0.02,2017,8,Morning,Weekend
+Scandinavian,4,0.02,2017,1,Morning,Weekend
+Granola,4,0.02,2017,1,Morning,Weekend
+Bakewell,4,0.02,2017,1,Morning,Weekend
+Muffin,4,0.02,2017,1,Morning,Weekend
+Scandinavian,4,0.02,2017,4,Morning,Weekend
+Tea,5,0.02,2017,4,Morning,Weekend
+Hot chocolate,4,0.02,2017,4,Morning,Weekend
+Farm House,4,0.02,2017,5,Morning,Weekend
+Cookies,4,0.02,2017,5,Morning,Weekend
+Scone,5,0.02,2017,11,Morning,Weekend
+Farm House,4,0.02,2017,11,Morning,Weekend
+Scandinavian,4,0.02,2017,11,Morning,Weekend
+Spanish Brunch,4,0.02,2017,11,Morning,Weekend
+Spanish Brunch,4,0.02,2017,12,Morning,Weekend
+Baguette,5,0.02,2017,2,Morning,Weekend
+Sandwich,4,0.02,2017,2,Morning,Weekend
+Spanish Brunch,5,0.02,2017,2,Morning,Weekend
+Eggs,4,0.02,2017,2,Morning,Weekend
+Farm House,5,0.02,2017,2,Morning,Weekend
+Muffin,4,0.02,2017,2,Morning,Weekend
+Baguette,5,0.02,2017,3,Morning,Weekend
+Farm House,5,0.02,2017,3,Morning,Weekend
+Scone,5,0.02,2017,3,Morning,Weekend
+Tiffin,5,0.02,2017,3,Morning,Weekend
+Argentina Night,4,0.02,2017,8,Morning,Weekend
+Cake,4,0.02,2017,8,Morning,Weekend
+Baguette,4,0.02,2017,8,Morning,Weekend
+Fudge,4,0.02,2016,10,Afternoon,Weekend
+Medialuna,4,0.02,2016,10,Afternoon,Weekend
+Muffin,4,0.02,2016,10,Afternoon,Weekend
+Hearty & Seasonal,5,0.02,2016,10,Afternoon,Weekend
+Cake,5,0.02,2016,10,Afternoon,Weekend
+Mineral water,5,0.02,2016,10,Afternoon,Weekend
+Hot chocolate,5,0.02,2016,5,Afternoon,Weekend
+Hearty & Seasonal,5,0.02,2016,5,Afternoon,Weekend
+Scandinavian,5,0.02,2016,5,Afternoon,Weekend
+Soup,5,0.02,2016,5,Afternoon,Weekend
+Muffin,4,0.02,2016,6,Afternoon,Weekend
+Hot chocolate,4,0.02,2016,6,Afternoon,Weekend
+Pastry,4,0.02,2016,6,Afternoon,Weekend
+Soup,4,0.02,2016,12,Afternoon,Weekend
+Truffles,5,0.02,2016,12,Afternoon,Weekend
+Coke,5,0.02,2016,12,Afternoon,Weekend
+Juice,5,0.02,2016,12,Afternoon,Weekend
+Hearty & Seasonal,4,0.02,2016,12,Afternoon,Weekend
+Jam,4,0.02,2016,12,Afternoon,Weekend
+Juice,4,0.02,2016,11,Afternoon,Weekend
+Keeping It Local,4,0.02,2016,11,Afternoon,Weekend
+Jammie Dodgers,5,0.02,2016,11,Afternoon,Weekend
+Tartine,4,0.02,2016,11,Afternoon,Weekend
+Pastry,4,0.02,2016,11,Afternoon,Weekend
+Truffles,5,0.02,2016,11,Afternoon,Weekend
+Pastry,5,0.02,2016,3,Afternoon,Weekend
+Medialuna,4,0.02,2016,3,Afternoon,Weekend
+Cookies,5,0.02,2016,4,Afternoon,Weekend
+Crepes,4,0.02,2016,4,Afternoon,Weekend
+Cake,4,0.02,2016,4,Afternoon,Weekend
+Hot chocolate,5,0.02,2016,4,Afternoon,Weekend
+Tea,5,0.02,2016,4,Afternoon,Weekend
+Scone,5,0.02,2016,10,Afternoon,Weekend
+Pastry,4,0.02,2016,12,Afternoon,Weekend
+Focaccia,4,0.02,2016,12,Afternoon,Weekend
+Frittata,5,0.02,2017,7,Afternoon,Weekend
+Jammie Dodgers,4,0.02,2017,7,Afternoon,Weekend
+Truffles,5,0.02,2017,7,Afternoon,Weekend
+Scandinavian,4,0.02,2017,7,Afternoon,Weekend
+Muffin,4,0.02,2017,7,Afternoon,Weekend
+Hot chocolate,5,0.02,2017,8,Afternoon,Weekend
+Tiffin,5,0.02,2017,8,Afternoon,Weekend
+The Nomad,5,0.02,2017,8,Afternoon,Weekend
+Truffles,5,0.02,2017,8,Afternoon,Weekend
+Muffin,5,0.02,2017,8,Afternoon,Weekend
+Fudge,5,0.02,2017,1,Afternoon,Weekend
+Mineral water,4,0.02,2017,1,Afternoon,Weekend
+Focaccia,4,0.02,2017,1,Afternoon,Weekend
+Extra Salami or Feta,5,0.02,2017,1,Afternoon,Weekend
+The Nomad,4,0.02,2017,1,Afternoon,Weekend
+Chicken Stew,4,0.02,2017,1,Afternoon,Weekend
+Smoothies,4,0.02,2017,4,Afternoon,Weekend
+Truffles,5,0.02,2017,4,Afternoon,Weekend
+Toast,5,0.02,2017,4,Afternoon,Weekend
+Chicken Stew,4,0.02,2017,4,Afternoon,Weekend
+Medialuna,4,0.02,2017,5,Afternoon,Weekend
+Hot chocolate,4,0.02,2017,5,Afternoon,Weekend
+Chicken Stew,5,0.02,2017,11,Afternoon,Weekend
+Soup,5,0.02,2017,11,Afternoon,Weekend
+Spanish Brunch,4,0.02,2017,11,Afternoon,Weekend
+Juice,5,0.02,2017,11,Afternoon,Weekend
+Brownie,4,0.02,2017,11,Afternoon,Weekend
+Brownie,4,0.02,2017,12,Afternoon,Weekend
+Sandwich,5,0.02,2017,12,Afternoon,Weekend
+Scandinavian,4,0.02,2017,2,Afternoon,Weekend
+Extra Salami or Feta,5,0.02,2017,2,Afternoon,Weekend
+Truffles,4,0.02,2017,2,Afternoon,Weekend
+Muffin,5,0.02,2017,2,Afternoon,Weekend
+Medialuna,4,0.02,2017,2,Afternoon,Weekend
+Salad,4,0.02,2017,2,Afternoon,Weekend
+Coke,4,0.02,2017,4,Afternoon,Weekend
+Tiffin,5,0.02,2017,3,Afternoon,Weekend
+The Nomad,4,0.02,2017,3,Afternoon,Weekend
+Baguette,5,0.02,2017,3,Afternoon,Weekend
+Pastry,4,0.02,2017,3,Afternoon,Weekend
+Truffles,5,0.02,2017,3,Afternoon,Weekend
+Brownie,4,0.02,2017,8,Afternoon,Weekend
+Valentine's card,2,0.01,2017,2,Night,Weekday
+Bread,3,0.01,2016,10,Evening,Weekday
+Medialuna,2,0.01,2016,1,Evening,Weekday
+Coffee,3,0.01,2016,2,Evening,Weekday
+Alfajores,3,0.01,2016,2,Evening,Weekday
+Mighty Protein,2,0.01,2016,2,Evening,Weekday
+Brownie,2,0.01,2016,4,Evening,Weekday
+Fudge,2,0.01,2016,4,Evening,Weekday
+Coffee,2,0.01,2016,8,Evening,Weekday
+Hot chocolate,2,0.01,2016,8,Evening,Weekday
+Alfajores,2,0.01,2016,10,Evening,Weekday
+Fudge,3,0.01,2016,11,Evening,Weekday
+Farm House,2,0.01,2016,11,Evening,Weekday
+Muffin,2,0.01,2016,11,Evening,Weekday
+Truffles,2,0.01,2016,11,Evening,Weekday
+Pastry,3,0.01,2016,11,Evening,Weekday
+Alfajores,3,0.01,2016,11,Evening,Weekday
+Cake,2,0.01,2016,11,Evening,Weekday
+Brownie,2,0.01,2016,11,Evening,Weekday
+Farm House,2,0.01,2016,12,Evening,Weekday
+Hot chocolate,3,0.01,2016,12,Evening,Weekday
+Vegan mincepie,2,0.01,2016,12,Evening,Weekday
+Medialuna,2,0.01,2016,12,Evening,Weekday
+Cookies,2,0.01,2016,12,Evening,Weekday
+Muffin,3,0.01,2017,3,Evening,Weekday
+Bread,2,0.01,2017,4,Evening,Weekday
+Bread,3,0.01,2017,1,Evening,Weekday
+Cake,2,0.01,2017,1,Evening,Weekday
+Bread,2,0.01,2017,7,Evening,Weekday
+Cake,2,0.01,2017,7,Evening,Weekday
+Tea,2,0.01,2017,7,Evening,Weekday
+Sandwich,2,0.01,2017,7,Evening,Weekday
+Bread,2,0.01,2017,9,Evening,Weekday
+Cookies,2,0.01,2017,9,Evening,Weekday
+Hot chocolate,3,0.01,2017,2,Evening,Weekday
+Muffin,2,0.01,2017,2,Evening,Weekday
+Cookies,2,0.01,2017,2,Evening,Weekday
+Alfajores,2,0.01,2017,2,Evening,Weekday
+Sandwich,2,0.01,2017,2,Evening,Weekday
+Coffee,2,0.01,2017,9,Evening,Weekday
+Salad,2,0.01,2017,3,Evening,Weekday
+Cookies,2,0.01,2017,3,Evening,Weekday
+Juice,3,0.01,2017,3,Evening,Weekday
+Hot chocolate,2,0.01,2017,3,Evening,Weekday
+Pastry,2,0.01,2017,5,Evening,Weekday
+Tea,2,0.01,2017,5,Evening,Weekday
+Coffee,2,0.01,2017,5,Evening,Weekday
+Tea,2,0.01,2017,6,Evening,Weekday
+Tartine,3,0.01,2016,10,Morning,Weekday
+Jam,2,0.01,2016,1,Morning,Weekday
+Farm House,3,0.01,2016,1,Morning,Weekday
+Scandinavian,3,0.01,2016,1,Morning,Weekday
+Cookies,2,0.01,2016,1,Morning,Weekday
+Hot chocolate,3,0.01,2016,2,Morning,Weekday
+Jam,3,0.01,2016,2,Morning,Weekday
+Alfajores,3,0.01,2016,2,Morning,Weekday
+Cookies,3,0.01,2016,2,Morning,Weekday
+Scandinavian,2,0.01,2016,2,Morning,Weekday
+Fudge,2,0.01,2016,3,Morning,Weekday
+Cookies,2,0.01,2016,3,Morning,Weekday
+Soup,2,0.01,2016,3,Morning,Weekday
+Farm House,3,0.01,2016,4,Morning,Weekday
+Scandinavian,3,0.01,2016,7,Morning,Weekday
+Hot chocolate,2,0.01,2016,7,Morning,Weekday
+Cookies,2,0.01,2016,7,Morning,Weekday
+Fudge,2,0.01,2016,8,Morning,Weekday
+Muffin,2,0.01,2016,8,Morning,Weekday
+Farm House,3,0.01,2016,8,Morning,Weekday
+Brownie,2,0.01,2016,8,Morning,Weekday
+Juice,2,0.01,2016,8,Morning,Weekday
+Pastry,3,0.01,2016,9,Morning,Weekday
+Keeping It Local,2,0.01,2016,9,Morning,Weekday
+Brownie,3,0.01,2016,10,Morning,Weekday
+Ella's Kitchen Pouches,3,0.01,2016,11,Morning,Weekday
+Fudge,2,0.01,2016,11,Morning,Weekday
+Focaccia,2,0.01,2016,11,Morning,Weekday
+Kids biscuit,2,0.01,2016,11,Morning,Weekday
+Coke,3,0.01,2016,11,Morning,Weekday
+Siblings,2,0.01,2016,11,Morning,Weekday
+Smoothies,2,0.01,2016,11,Morning,Weekday
+Juice,2,0.01,2016,11,Morning,Weekday
+Hot chocolate,2,0.01,2016,1,Morning,Weekday
+Cake,2,0.01,2016,2,Morning,Weekday
+Medialuna,2,0.01,2016,2,Morning,Weekday
+Toast,3,0.01,2016,5,Morning,Weekday
+Muffin,3,0.01,2016,5,Morning,Weekday
+Farm House,2,0.01,2016,5,Morning,Weekday
+Tea,3,0.01,2016,5,Morning,Weekday
+Cookies,2,0.01,2016,6,Morning,Weekday
+Hot chocolate,3,0.01,2016,6,Morning,Weekday
+Alfajores,2,0.01,2016,6,Morning,Weekday
+Muffin,3,0.01,2016,6,Morning,Weekday
+Tea,3,0.01,2016,6,Morning,Weekday
+Cake,2,0.01,2016,6,Morning,Weekday
+Juice,2,0.01,2016,7,Morning,Weekday
+Cake,2,0.01,2016,7,Morning,Weekday
+Truffles,2,0.01,2016,8,Morning,Weekday
+Toast,2,0.01,2016,8,Morning,Weekday
+Jam,2,0.01,2016,9,Morning,Weekday
+Toast,3,0.01,2016,9,Morning,Weekday
+Brownie,2,0.01,2016,9,Morning,Weekday
+Fudge,2,0.01,2016,9,Morning,Weekday
+Alfajores,2,0.01,2016,9,Morning,Weekday
+Bakewell,3,0.01,2016,12,Morning,Weekday
+Coke,2,0.01,2016,12,Morning,Weekday
+Dulce de Leche,2,0.01,2016,12,Morning,Weekday
+Jammie Dodgers,2,0.01,2016,12,Morning,Weekday
+Truffles,2,0.01,2016,12,Morning,Weekday
+Ella's Kitchen Pouches,2,0.01,2016,12,Morning,Weekday
+The Nomad,3,0.01,2016,12,Morning,Weekday
+Gingerbread syrup,3,0.01,2016,12,Morning,Weekday
+Scone,2,0.01,2016,12,Morning,Weekday
+Vegan mincepie,2,0.01,2017,3,Morning,Weekday
+Medialuna,2,0.01,2017,4,Morning,Weekday
+Toast,2,0.01,2017,4,Morning,Weekday
+Medialuna,2,0.01,2017,5,Morning,Weekday
+Muffin,3,0.01,2017,5,Morning,Weekday
+Juice,3,0.01,2017,5,Morning,Weekday
+Truffles,2,0.01,2017,5,Morning,Weekday
+Brownie,2,0.01,2017,5,Morning,Weekday
+Farm House,3,0.01,2017,5,Morning,Weekday
+Sandwich,2,0.01,2017,5,Morning,Weekday
+Scandinavian,2,0.01,2017,6,Morning,Weekday
+Muffin,2,0.01,2017,9,Morning,Weekday
+Scone,2,0.01,2017,9,Morning,Weekday
+Farm House,2,0.01,2017,10,Morning,Weekday
+Scone,2,0.01,2017,10,Morning,Weekday
+Toast,2,0.01,2017,11,Morning,Weekday
+Hot chocolate,3,0.01,2017,11,Morning,Weekday
+Pastry,2,0.01,2017,11,Morning,Weekday
+Tea,2,0.01,2017,11,Morning,Weekday
+Farm House,2,0.01,2017,11,Morning,Weekday
+Pastry,2,0.01,2017,12,Morning,Weekday
+Cookies,3,0.01,2017,12,Morning,Weekday
+Jammie Dodgers,2,0.01,2017,12,Morning,Weekday
+Cake,3,0.01,2017,12,Morning,Weekday
+Alfajores,2,0.01,2017,12,Morning,Weekday
+Scone,2,0.01,2017,1,Morning,Weekday
+Afternoon with the baker,2,0.01,2017,1,Morning,Weekday
+Coke,2,0.01,2017,1,Morning,Weekday
+Spanish Brunch,3,0.01,2017,1,Morning,Weekday
+Granola,2,0.01,2017,1,Morning,Weekday
+Tiffin,2,0.01,2017,1,Morning,Weekday
+Vegan mincepie,2,0.01,2017,1,Morning,Weekday
+Brownie,2,0.01,2017,1,Morning,Weekday
+Bakewell,2,0.01,2017,1,Morning,Weekday
+Sandwich,2,0.01,2017,7,Morning,Weekday
+Baguette,3,0.01,2017,7,Morning,Weekday
+Cake,3,0.01,2017,7,Morning,Weekday
+Alfajores,2,0.01,2017,8,Morning,Weekday
+Medialuna,2,0.01,2017,8,Morning,Weekday
+Brownie,2,0.01,2017,9,Morning,Weekday
+Hot chocolate,3,0.01,2017,9,Morning,Weekday
+Valentine's card,2,0.01,2017,9,Morning,Weekday
+Toast,3,0.01,2017,10,Morning,Weekday
+Sandwich,2,0.01,2017,10,Morning,Weekday
+Soup,2,0.01,2017,10,Morning,Weekday
+Scandinavian,3,0.01,2017,2,Morning,Weekday
+Chocolates,2,0.01,2017,2,Morning,Weekday
+Afternoon with the baker,2,0.01,2017,2,Morning,Weekday
+The Nomad,2,0.01,2017,2,Morning,Weekday
+Coke,2,0.01,2017,2,Morning,Weekday
+Tiffin,3,0.01,2017,2,Morning,Weekday
+Muffin,3,0.01,2017,2,Morning,Weekday
+Fudge,2,0.01,2017,2,Morning,Weekday
+Jam,2,0.01,2017,2,Morning,Weekday
+Fudge,3,0.01,2017,3,Morning,Weekday
+Jammie Dodgers,2,0.01,2017,6,Morning,Weekday
+Tea,2,0.01,2017,8,Morning,Weekday
+Baguette,2,0.01,2017,9,Morning,Weekday
+Cake,3,0.01,2017,9,Morning,Weekday
+Tiffin,2,0.01,2017,9,Morning,Weekday
+Medialuna,2,0.01,2017,10,Morning,Weekday
+Tiffin,2,0.01,2017,10,Morning,Weekday
+Jam,2,0.01,2017,3,Morning,Weekday
+Salad,2,0.01,2017,3,Morning,Weekday
+Extra Salami or Feta,2,0.01,2017,3,Morning,Weekday
+Granola,3,0.01,2017,3,Morning,Weekday
+Cherry me Dried fruit,2,0.01,2017,3,Morning,Weekday
+Mortimer,2,0.01,2017,3,Morning,Weekday
+Coffee granules ,2,0.01,2017,3,Morning,Weekday
+Smoothies,3,0.01,2017,3,Morning,Weekday
+Jammie Dodgers,2,0.01,2017,4,Morning,Weekday
+Tiffin,2,0.01,2017,6,Morning,Weekday
+Alfajores,3,0.01,2017,6,Morning,Weekday
+Medialuna,3,0.01,2017,7,Morning,Weekday
+Juice,3,0.01,2016,10,Afternoon,Weekday
+Farm House,2,0.01,2016,10,Afternoon,Weekday
+Focaccia,2,0.01,2016,10,Afternoon,Weekday
+Tartine,2,0.01,2016,10,Afternoon,Weekday
+Fudge,2,0.01,2016,10,Afternoon,Weekday
+Coke,2,0.01,2016,10,Afternoon,Weekday
+Mineral water,3,0.01,2016,10,Afternoon,Weekday
+Hearty & Seasonal,3,0.01,2016,1,Afternoon,Weekday
+Tartine,3,0.01,2016,1,Afternoon,Weekday
+Coke,2,0.01,2016,1,Afternoon,Weekday
+Fudge,3,0.01,2016,1,Afternoon,Weekday
+Juice,3,0.01,2016,1,Afternoon,Weekday
+Hot chocolate,3,0.01,2016,1,Afternoon,Weekday
+Medialuna,2,0.01,2016,1,Afternoon,Weekday
+Muffin,2,0.01,2016,2,Afternoon,Weekday
+Scandinavian,2,0.01,2016,2,Afternoon,Weekday
+Pick and Mix Bowls,2,0.01,2016,2,Afternoon,Weekday
+Coke,3,0.01,2016,2,Afternoon,Weekday
+Farm House,3,0.01,2016,2,Afternoon,Weekday
+Fudge,3,0.01,2016,2,Afternoon,Weekday
+Pick and Mix Bowls,2,0.01,2016,3,Afternoon,Weekday
+Cookies,3,0.01,2016,3,Afternoon,Weekday
+Hot chocolate,2,0.01,2016,3,Afternoon,Weekday
+Tea,3,0.01,2016,3,Afternoon,Weekday
+Pastry,3,0.01,2016,3,Afternoon,Weekday
+Farm House,3,0.01,2016,3,Afternoon,Weekday
+Soup,2,0.01,2016,3,Afternoon,Weekday
+Fudge,2,0.01,2016,3,Afternoon,Weekday
+Medialuna,2,0.01,2016,3,Afternoon,Weekday
+Dulce de Leche,3,0.01,2016,3,Afternoon,Weekday
+Juice,2,0.01,2016,3,Afternoon,Weekday
+Fudge,2,0.01,2016,4,Afternoon,Weekday
+Pick and Mix Bowls,2,0.01,2016,4,Afternoon,Weekday
+Pastry,2,0.01,2016,4,Afternoon,Weekday
+Juice,2,0.01,2016,4,Afternoon,Weekday
+Sandwich,3,0.01,2016,4,Afternoon,Weekday
+Tartine,2,0.01,2016,4,Afternoon,Weekday
+Hot chocolate,2,0.01,2016,4,Afternoon,Weekday
+Jam,2,0.01,2016,4,Afternoon,Weekday
+Medialuna,2,0.01,2016,4,Afternoon,Weekday
+Cookies,2,0.01,2016,4,Afternoon,Weekday
+Fudge,2,0.01,2016,7,Afternoon,Weekday
+Soup,2,0.01,2016,7,Afternoon,Weekday
+Cookies,2,0.01,2016,7,Afternoon,Weekday
+Alfajores,2,0.01,2016,7,Afternoon,Weekday
+Pastry,2,0.01,2016,8,Afternoon,Weekday
+Cookies,2,0.01,2016,8,Afternoon,Weekday
+Art Tray,2,0.01,2016,8,Afternoon,Weekday
+Scandinavian,3,0.01,2016,8,Afternoon,Weekday
+Muffin,3,0.01,2016,8,Afternoon,Weekday
+Hot chocolate,2,0.01,2016,8,Afternoon,Weekday
+Medialuna,3,0.01,2016,9,Afternoon,Weekday
+Juice,2,0.01,2016,9,Afternoon,Weekday
+Cookies,3,0.01,2016,9,Afternoon,Weekday
+Bread Pudding,3,0.01,2016,9,Afternoon,Weekday
+Empanadas,3,0.01,2016,10,Afternoon,Weekday
+Scandinavian,2,0.01,2016,10,Afternoon,Weekday
+Truffles,2,0.01,2016,10,Afternoon,Weekday
+Frittata,3,0.01,2016,11,Afternoon,Weekday
+My-5 Fruit Shoot,3,0.01,2016,11,Afternoon,Weekday
+Kids biscuit,2,0.01,2016,11,Afternoon,Weekday
+Ella's Kitchen Pouches,2,0.01,2016,11,Afternoon,Weekday
+Tartine,3,0.01,2016,11,Afternoon,Weekday
+Smoothies,3,0.01,2016,11,Afternoon,Weekday
+Lemon and coconut,3,0.01,2016,11,Afternoon,Weekday
+Jammie Dodgers,2,0.01,2016,11,Afternoon,Weekday
+Medialuna,3,0.01,2016,2,Afternoon,Weekday
+Cake,3,0.01,2016,2,Afternoon,Weekday
+Hot chocolate,2,0.01,2016,2,Afternoon,Weekday
+Medialuna,3,0.01,2016,5,Afternoon,Weekday
+Cookies,3,0.01,2016,5,Afternoon,Weekday
+Farm House,2,0.01,2016,6,Afternoon,Weekday
+Cookies,3,0.01,2016,6,Afternoon,Weekday
+Sandwich,3,0.01,2016,6,Afternoon,Weekday
+Muffin,2,0.01,2016,6,Afternoon,Weekday
+Cake,3,0.01,2016,6,Afternoon,Weekday
+Alfajores,2,0.01,2016,6,Afternoon,Weekday
+Mineral water,2,0.01,2016,6,Afternoon,Weekday
+Juice,2,0.01,2016,6,Afternoon,Weekday
+Farm House,2,0.01,2016,7,Afternoon,Weekday
+Hot chocolate,3,0.01,2016,7,Afternoon,Weekday
+Cake,3,0.01,2016,8,Afternoon,Weekday
+Cake,3,0.01,2016,9,Afternoon,Weekday
+Mineral water,2,0.01,2016,9,Afternoon,Weekday
+Scandinavian,2,0.01,2016,9,Afternoon,Weekday
+Farm House,2,0.01,2016,9,Afternoon,Weekday
+Alfajores,3,0.01,2016,9,Afternoon,Weekday
+Bakewell,2,0.01,2016,12,Afternoon,Weekday
+Art Tray,2,0.01,2016,12,Afternoon,Weekday
+Smoothies,3,0.01,2016,12,Afternoon,Weekday
+Bare Popcorn,2,0.01,2016,12,Afternoon,Weekday
+Panatone,2,0.01,2016,12,Afternoon,Weekday
+Gingerbread syrup,2,0.01,2016,12,Afternoon,Weekday
+Crisps,3,0.01,2016,12,Afternoon,Weekday
+Lemon and coconut,2,0.01,2016,12,Afternoon,Weekday
+Frittata,2,0.01,2017,3,Afternoon,Weekday
+Vegan mincepie,2,0.01,2017,3,Afternoon,Weekday
+Pastry,3,0.01,2017,4,Afternoon,Weekday
+Hot chocolate,3,0.01,2017,4,Afternoon,Weekday
+Toast,2,0.01,2017,5,Afternoon,Weekday
+Frittata,3,0.01,2017,5,Afternoon,Weekday
+Medialuna,3,0.01,2017,6,Afternoon,Weekday
+Frittata,2,0.01,2017,6,Afternoon,Weekday
+Afternoon with the baker,2,0.01,2017,6,Afternoon,Weekday
+Toast,2,0.01,2017,9,Afternoon,Weekday
+Farm House,2,0.01,2017,9,Afternoon,Weekday
+Jammie Dodgers,2,0.01,2017,9,Afternoon,Weekday
+Farm House,3,0.01,2017,10,Afternoon,Weekday
+Toast,3,0.01,2017,10,Afternoon,Weekday
+Muffin,2,0.01,2017,10,Afternoon,Weekday
+Sandwich,2,0.01,2017,11,Afternoon,Weekday
+Scandinavian,3,0.01,2017,11,Afternoon,Weekday
+Afternoon with the baker,2,0.01,2017,11,Afternoon,Weekday
+Hot chocolate,2,0.01,2017,11,Afternoon,Weekday
+Tea,2,0.01,2017,12,Afternoon,Weekday
+Toast,2,0.01,2017,12,Afternoon,Weekday
+Coke,2,0.01,2017,12,Afternoon,Weekday
+Frittata,2,0.01,2017,12,Afternoon,Weekday
+Smoothies,3,0.01,2017,1,Afternoon,Weekday
+Hearty & Seasonal,2,0.01,2017,1,Afternoon,Weekday
+Crisps,3,0.01,2017,1,Afternoon,Weekday
+Frittata,2,0.01,2017,1,Afternoon,Weekday
+Art Tray,3,0.01,2017,1,Afternoon,Weekday
+Fudge,2,0.01,2017,1,Afternoon,Weekday
+The Nomad,2,0.01,2017,1,Afternoon,Weekday
+Jam,2,0.01,2017,1,Afternoon,Weekday
+Extra Salami or Feta,2,0.01,2017,1,Afternoon,Weekday
+Bakewell,2,0.01,2017,1,Afternoon,Weekday
+Jam,3,0.01,2017,2,Afternoon,Weekday
+Bare Popcorn,2,0.01,2017,2,Afternoon,Weekday
+Extra Salami or Feta,2,0.01,2017,2,Afternoon,Weekday
+Fudge,3,0.01,2017,2,Afternoon,Weekday
+Scandinavian,2,0.01,2017,3,Afternoon,Weekday
+Hot chocolate,2,0.01,2017,6,Afternoon,Weekday
+Mineral water,2,0.01,2017,6,Afternoon,Weekday
+Spanish Brunch,2,0.01,2017,6,Afternoon,Weekday
+Fudge,3,0.01,2017,6,Afternoon,Weekday
+Chicken Stew,3,0.01,2017,6,Afternoon,Weekday
+Juice,3,0.01,2017,7,Afternoon,Weekday
+Baguette,2,0.01,2017,7,Afternoon,Weekday
+Alfajores,2,0.01,2017,8,Afternoon,Weekday
+Baguette,2,0.01,2017,8,Afternoon,Weekday
+Farm House,3,0.01,2017,8,Afternoon,Weekday
+Chocolates,2,0.01,2017,8,Afternoon,Weekday
+Hot chocolate,3,0.01,2017,8,Afternoon,Weekday
+Mineral water,3,0.01,2017,8,Afternoon,Weekday
+Baguette,2,0.01,2017,9,Afternoon,Weekday
+Scandinavian,2,0.01,2017,9,Afternoon,Weekday
+Alfajores,3,0.01,2017,9,Afternoon,Weekday
+Hot chocolate,3,0.01,2017,9,Afternoon,Weekday
+Juice,2,0.01,2017,10,Afternoon,Weekday
+Extra Salami or Feta,2,0.01,2017,10,Afternoon,Weekday
+Medialuna,3,0.01,2017,10,Afternoon,Weekday
+Alfajores,2,0.01,2017,10,Afternoon,Weekday
+Brownie,2,0.01,2017,10,Afternoon,Weekday
+Baguette,2,0.01,2017,10,Afternoon,Weekday
+Afternoon with the baker,3,0.01,2017,2,Afternoon,Weekday
+Vegan mincepie,2,0.01,2017,2,Afternoon,Weekday
+The Nomad,2,0.01,2017,2,Afternoon,Weekday
+Smoothies,3,0.01,2017,3,Afternoon,Weekday
+Cookies,2,0.01,2017,7,Afternoon,Weekday
+Scone,2,0.01,2017,8,Afternoon,Weekday
+Salad,2,0.01,2017,9,Afternoon,Weekday
+Truffles,3,0.01,2017,9,Afternoon,Weekday
+Spanish Brunch,2,0.01,2017,9,Afternoon,Weekday
+Half slice Monster ,2,0.01,2017,3,Afternoon,Weekday
+Christmas common,2,0.01,2017,3,Afternoon,Weekday
+Drinking chocolate spoons ,2,0.01,2017,3,Afternoon,Weekday
+Extra Salami or Feta,2,0.01,2017,4,Afternoon,Weekday
+Mineral water,3,0.01,2017,4,Afternoon,Weekday
+Soup,3,0.01,2017,4,Afternoon,Weekday
+Salad,3,0.01,2017,5,Afternoon,Weekday
+Coke,3,0.01,2017,5,Afternoon,Weekday
+Muffin,2,0.01,2017,5,Afternoon,Weekday
+Hot chocolate,2,0.01,2017,5,Afternoon,Weekday
+Baguette,2,0.01,2017,5,Afternoon,Weekday
+Tiffin,3,0.01,2017,6,Afternoon,Weekday
+Coke,3,0.01,2017,7,Afternoon,Weekday
+Mineral water,2,0.01,2017,7,Afternoon,Weekday
+Scone,2,0.01,2017,7,Afternoon,Weekday
+Hot chocolate,2,0.01,2016,12,Night,Weekend
+Coke,3,0.01,2016,12,Evening,Weekend
+Afternoon with the baker,3,0.01,2017,1,Evening,Weekend
+Bread,2,0.01,2017,4,Evening,Weekend
+Truffles,3,0.01,2017,4,Evening,Weekend
+Juice,2,0.01,2017,4,Evening,Weekend
+Scandinavian,3,0.01,2017,11,Evening,Weekend
+Tea,3,0.01,2017,11,Evening,Weekend
+Cake,2,0.01,2017,11,Evening,Weekend
+Medialuna,2,0.01,2017,11,Evening,Weekend
+Afternoon with the baker,2,0.01,2017,12,Evening,Weekend
+Coffee,2,0.01,2017,2,Evening,Weekend
+Afternoon with the baker,2,0.01,2017,2,Evening,Weekend
+Hot chocolate,2,0.01,2017,2,Evening,Weekend
+Cake,2,0.01,2017,2,Evening,Weekend
+Muffin,2,0.01,2017,11,Evening,Weekend
+Coffee,2,0.01,2017,3,Evening,Weekend
+Coffee,3,0.01,2017,1,Evening,Weekend
+Bread,2,0.01,2017,1,Evening,Weekend
+Hot chocolate,2,0.01,2016,10,Morning,Weekend
+Tartine,2,0.01,2016,10,Morning,Weekend
+Basket,2,0.01,2016,10,Morning,Weekend
+Juice,2,0.01,2016,10,Morning,Weekend
+Pastry,3,0.01,2016,5,Morning,Weekend
+Cookies,3,0.01,2016,5,Morning,Weekend
+Basket,3,0.01,2016,5,Morning,Weekend
+Farm House,3,0.01,2016,5,Morning,Weekend
+My-5 Fruit Shoot,2,0.01,2016,5,Morning,Weekend
+Mineral water,2,0.01,2016,6,Morning,Weekend
+Focaccia,3,0.01,2016,6,Morning,Weekend
+Tea,3,0.01,2016,6,Morning,Weekend
+Truffles,2,0.01,2016,12,Morning,Weekend
+Hearty & Seasonal,3,0.01,2016,11,Morning,Weekend
+Sandwich,3,0.01,2016,11,Morning,Weekend
+Smoothies,3,0.01,2016,11,Morning,Weekend
+Mineral water,2,0.01,2016,11,Morning,Weekend
+Jam,2,0.01,2016,3,Morning,Weekend
+Farm House,3,0.01,2016,3,Morning,Weekend
+Hot chocolate,2,0.01,2016,3,Morning,Weekend
+Cake,2,0.01,2016,3,Morning,Weekend
+Fudge,2,0.01,2016,3,Morning,Weekend
+Tea,3,0.01,2016,3,Morning,Weekend
+Pastry,3,0.01,2016,4,Morning,Weekend
+Tea,2,0.01,2016,4,Morning,Weekend
+Muffin,3,0.01,2016,4,Morning,Weekend
+Toast,2,0.01,2016,10,Morning,Weekend
+Focaccia,3,0.01,2016,10,Morning,Weekend
+Sandwich,2,0.01,2016,10,Morning,Weekend
+Cake,2,0.01,2016,10,Morning,Weekend
+Scone,2,0.01,2016,11,Morning,Weekend
+Toast,2,0.01,2016,11,Morning,Weekend
+The Nomad,2,0.01,2016,12,Morning,Weekend
+Focaccia,2,0.01,2016,12,Morning,Weekend
+Coke,2,0.01,2016,12,Morning,Weekend
+Sandwich,2,0.01,2016,12,Morning,Weekend
+Jammie Dodgers,2,0.01,2016,12,Morning,Weekend
+Hot chocolate,2,0.01,2017,7,Morning,Weekend
+Cake,2,0.01,2017,7,Morning,Weekend
+Scone,2,0.01,2017,7,Morning,Weekend
+Scandinavian,3,0.01,2017,7,Morning,Weekend
+Hearty & Seasonal,2,0.01,2017,1,Morning,Weekend
+Truffles,3,0.01,2017,1,Morning,Weekend
+Spanish Brunch,2,0.01,2017,1,Morning,Weekend
+Afternoon with the baker,2,0.01,2017,1,Morning,Weekend
+Coke,2,0.01,2017,1,Morning,Weekend
+Eggs,2,0.01,2017,1,Morning,Weekend
+Frittata,3,0.01,2017,1,Morning,Weekend
+Sandwich,3,0.01,2017,1,Morning,Weekend
+Jam,2,0.01,2017,1,Morning,Weekend
+Toast,2,0.01,2017,4,Morning,Weekend
+Extra Salami or Feta,2,0.01,2017,4,Morning,Weekend
+Cookies,3,0.01,2017,4,Morning,Weekend
+Truffles,3,0.01,2017,4,Morning,Weekend
+Brownie,3,0.01,2017,4,Morning,Weekend
+Sandwich,3,0.01,2017,4,Morning,Weekend
+Medialuna,3,0.01,2017,5,Morning,Weekend
+Alfajores,2,0.01,2017,5,Morning,Weekend
+Spanish Brunch,3,0.01,2017,5,Morning,Weekend
+Sandwich,2,0.01,2017,5,Morning,Weekend
+Brownie,2,0.01,2017,5,Morning,Weekend
+Cake,2,0.01,2017,5,Morning,Weekend
+Baguette,3,0.01,2017,11,Morning,Weekend
+Hot chocolate,2,0.01,2017,11,Morning,Weekend
+Fudge,2,0.01,2017,11,Morning,Weekend
+Brownie,2,0.01,2017,11,Morning,Weekend
+The Nomad,2,0.01,2017,11,Morning,Weekend
+Juice,2,0.01,2017,11,Morning,Weekend
+Cookies,2,0.01,2017,12,Morning,Weekend
+Medialuna,2,0.01,2017,12,Morning,Weekend
+Toast,3,0.01,2017,12,Morning,Weekend
+Baguette,3,0.01,2017,12,Morning,Weekend
+Brownie,3,0.01,2017,12,Morning,Weekend
+Fudge,3,0.01,2017,2,Morning,Weekend
+Jammie Dodgers,3,0.01,2017,2,Morning,Weekend
+Jam,2,0.01,2017,2,Morning,Weekend
+Vegan mincepie,2,0.01,2017,2,Morning,Weekend
+Tiffin,3,0.01,2017,2,Morning,Weekend
+Smoothies,3,0.01,2017,2,Morning,Weekend
+Granola,2,0.01,2017,2,Morning,Weekend
+Coke,2,0.01,2017,2,Morning,Weekend
+Alfajores,2,0.01,2017,4,Morning,Weekend
+Coke,2,0.01,2017,4,Morning,Weekend
+Juice,2,0.01,2017,4,Morning,Weekend
+Tiffin,2,0.01,2017,4,Morning,Weekend
+Muffin,2,0.01,2017,4,Morning,Weekend
+Toast,2,0.01,2017,5,Morning,Weekend
+Jammie Dodgers,2,0.01,2017,5,Morning,Weekend
+Muffin,2,0.01,2017,5,Morning,Weekend
+Sandwich,2,0.01,2017,11,Morning,Weekend
+Duck egg,2,0.01,2017,3,Morning,Weekend
+Truffles,2,0.01,2017,3,Morning,Weekend
+Jam,3,0.01,2017,3,Morning,Weekend
+Mineral water,2,0.01,2017,3,Morning,Weekend
+Jammie Dodgers,3,0.01,2017,3,Morning,Weekend
+Smoothies,2,0.01,2017,3,Morning,Weekend
+Farm House,3,0.01,2017,8,Morning,Weekend
+Alfajores,3,0.01,2017,8,Morning,Weekend
+Muffin,3,0.01,2017,8,Morning,Weekend
+Scandinavian,2,0.01,2017,8,Morning,Weekend
+Spanish Brunch,3,0.01,2017,8,Morning,Weekend
+The Nomad,3,0.01,2017,8,Morning,Weekend
+Cookies,2,0.01,2017,8,Morning,Weekend
+Tea,3,0.01,2017,8,Morning,Weekend
+Afternoon with the baker,2,0.01,2017,8,Morning,Weekend
+Truffles,2,0.01,2017,8,Morning,Weekend
+Scone,2,0.01,2017,8,Morning,Weekend
+Hot chocolate,2,0.01,2017,9,Morning,Weekend
+Cake,3,0.01,2017,9,Morning,Weekend
+Pastry,2,0.01,2017,9,Morning,Weekend
+Bread,3,0.01,2017,9,Morning,Weekend
+Tea,2,0.01,2017,9,Morning,Weekend
+Spanish Brunch,2,0.01,2017,9,Morning,Weekend
+Juice,2,0.01,2017,9,Morning,Weekend
+Jam,3,0.01,2016,10,Afternoon,Weekend
+Victorian Sponge,3,0.01,2016,10,Afternoon,Weekend
+Focaccia,2,0.01,2016,5,Afternoon,Weekend
+Pick and Mix Bowls,2,0.01,2016,5,Afternoon,Weekend
+Farm House,2,0.01,2016,5,Afternoon,Weekend
+Jam,2,0.01,2016,5,Afternoon,Weekend
+Mighty Protein,2,0.01,2016,5,Afternoon,Weekend
+Mineral water,2,0.01,2016,5,Afternoon,Weekend
+Sandwich,2,0.01,2016,5,Afternoon,Weekend
+Coke,2,0.01,2016,5,Afternoon,Weekend
+Fudge,2,0.01,2016,5,Afternoon,Weekend
+Farm House,3,0.01,2016,6,Afternoon,Weekend
+Focaccia,2,0.01,2016,6,Afternoon,Weekend
+Pick and Mix Bowls,2,0.01,2016,6,Afternoon,Weekend
+Jam,3,0.01,2016,6,Afternoon,Weekend
+Juice,2,0.01,2016,6,Afternoon,Weekend
+Brownie,2,0.01,2016,6,Afternoon,Weekend
+Hearty & Seasonal,2,0.01,2016,6,Afternoon,Weekend
+Mighty Protein,3,0.01,2016,6,Afternoon,Weekend
+Keeping It Local,2,0.01,2016,12,Afternoon,Weekend
+Art Tray,3,0.01,2016,11,Afternoon,Weekend
+My-5 Fruit Shoot,3,0.01,2016,11,Afternoon,Weekend
+Jam,2,0.01,2016,11,Afternoon,Weekend
+Coke,2,0.01,2016,11,Afternoon,Weekend
+Frittata,3,0.01,2016,11,Afternoon,Weekend
+Fudge,3,0.01,2016,11,Afternoon,Weekend
+Soup,3,0.01,2016,11,Afternoon,Weekend
+Focaccia,3,0.01,2016,11,Afternoon,Weekend
+Caramel bites,2,0.01,2016,11,Afternoon,Weekend
+Jam,2,0.01,2016,3,Afternoon,Weekend
+Fudge,2,0.01,2016,3,Afternoon,Weekend
+Juice,3,0.01,2016,3,Afternoon,Weekend
+Alfajores,2,0.01,2016,3,Afternoon,Weekend
+Alfajores,3,0.01,2016,4,Afternoon,Weekend
+Pastry,2,0.01,2016,4,Afternoon,Weekend
+Truffles,3,0.01,2016,4,Afternoon,Weekend
+Fudge,2,0.01,2016,4,Afternoon,Weekend
+Muffin,2,0.01,2016,4,Afternoon,Weekend
+Truffles,2,0.01,2016,10,Afternoon,Weekend
+Art Tray,2,0.01,2016,10,Afternoon,Weekend
+Crisps,2,0.01,2016,12,Afternoon,Weekend
+Dulce de Leche,2,0.01,2016,12,Afternoon,Weekend
+Jammie Dodgers,2,0.01,2016,12,Afternoon,Weekend
+Medialuna,3,0.01,2017,7,Afternoon,Weekend
+Hot chocolate,3,0.01,2017,7,Afternoon,Weekend
+Farm House,2,0.01,2017,7,Afternoon,Weekend
+Focaccia,2,0.01,2017,7,Afternoon,Weekend
+Cake,3,0.01,2017,7,Afternoon,Weekend
+Smoothies,2,0.01,2017,8,Afternoon,Weekend
+Jammie Dodgers,2,0.01,2017,8,Afternoon,Weekend
+Vegan mincepie,2,0.01,2017,8,Afternoon,Weekend
+Farm House,3,0.01,2017,1,Afternoon,Weekend
+Granola,3,0.01,2017,1,Afternoon,Weekend
+Gingerbread syrup,2,0.01,2017,1,Afternoon,Weekend
+Afternoon with the baker,3,0.01,2017,1,Afternoon,Weekend
+Duck egg,2,0.01,2017,1,Afternoon,Weekend
+Jam,3,0.01,2017,1,Afternoon,Weekend
+Coke,3,0.01,2017,1,Afternoon,Weekend
+Bakewell,3,0.01,2017,1,Afternoon,Weekend
+Granola,2,0.01,2017,4,Afternoon,Weekend
+Alfajores,3,0.01,2017,4,Afternoon,Weekend
+Mineral water,3,0.01,2017,4,Afternoon,Weekend
+Fudge,3,0.01,2017,5,Afternoon,Weekend
+Spanish Brunch,2,0.01,2017,5,Afternoon,Weekend
+Coke,2,0.01,2017,5,Afternoon,Weekend
+Scone,3,0.01,2017,5,Afternoon,Weekend
+Scandinavian,2,0.01,2017,5,Afternoon,Weekend
+Chicken Stew,2,0.01,2017,5,Afternoon,Weekend
+Baguette,2,0.01,2017,11,Afternoon,Weekend
+The Nomad,2,0.01,2017,11,Afternoon,Weekend
+Alfajores,2,0.01,2017,11,Afternoon,Weekend
+Farm House,2,0.01,2017,12,Afternoon,Weekend
+Soup,3,0.01,2017,12,Afternoon,Weekend
+Alfajores,2,0.01,2017,12,Afternoon,Weekend
+Toast,2,0.01,2017,12,Afternoon,Weekend
+Chicken Stew,2,0.01,2017,12,Afternoon,Weekend
+Smoothies,2,0.01,2017,2,Afternoon,Weekend
+Jam,3,0.01,2017,2,Afternoon,Weekend
+Mineral water,2,0.01,2017,2,Afternoon,Weekend
+Baguette,3,0.01,2017,2,Afternoon,Weekend
+The Nomad,3,0.01,2017,2,Afternoon,Weekend
+Fudge,2,0.01,2017,2,Afternoon,Weekend
+Baguette,2,0.01,2017,4,Afternoon,Weekend
+Muffin,2,0.01,2017,4,Afternoon,Weekend
+Tiffin,2,0.01,2017,4,Afternoon,Weekend
+Muffin,2,0.01,2017,5,Afternoon,Weekend
+Juice,2,0.01,2017,5,Afternoon,Weekend
+Tiffin,2,0.01,2017,5,Afternoon,Weekend
+Jammie Dodgers,3,0.01,2017,11,Afternoon,Weekend
+Toast,2,0.01,2017,11,Afternoon,Weekend
+Muffin,3,0.01,2017,12,Afternoon,Weekend
+Jammie Dodgers,2,0.01,2017,12,Afternoon,Weekend
+Pastry,2,0.01,2017,12,Afternoon,Weekend
+Scone,3,0.01,2017,12,Afternoon,Weekend
+Baguette,2,0.01,2017,12,Afternoon,Weekend
+Juice,3,0.01,2017,12,Afternoon,Weekend
+Smoothies,2,0.01,2017,12,Afternoon,Weekend
+Medialuna,3,0.01,2017,12,Afternoon,Weekend
+Jam,2,0.01,2017,3,Afternoon,Weekend
+Scandinavian,3,0.01,2017,3,Afternoon,Weekend
+Half slice Monster ,2,0.01,2017,3,Afternoon,Weekend
+Chicken Stew,3,0.01,2017,3,Afternoon,Weekend
+Farm House,2,0.01,2017,3,Afternoon,Weekend
+Toast,2,0.01,2017,3,Afternoon,Weekend
+Jammie Dodgers,3,0.01,2017,3,Afternoon,Weekend
+Medialuna,2,0.01,2017,3,Afternoon,Weekend
+Coke,2,0.01,2017,8,Afternoon,Weekend
+Alfajores,3,0.01,2017,8,Afternoon,Weekend
+Honey,2,0.01,2017,8,Afternoon,Weekend
+Sandwich,3,0.01,2017,9,Afternoon,Weekend
+Tea,3,0.01,2017,9,Afternoon,Weekend
+Farm House,2,0.01,2017,9,Afternoon,Weekend
+Spanish Brunch,3,0.01,2017,9,Afternoon,Weekend
+Smoothies,2,0.01,2017,9,Afternoon,Weekend
+Tacos/Fajita,3,0.01,2017,9,Afternoon,Weekend
+Juice,1,0.0,2017,5,Night,Weekday
+Mineral water,1,0.0,2017,5,Night,Weekday
+Muffin,1,0.0,2016,10,Evening,Weekday
+Cookies,1,0.0,2016,10,Evening,Weekday
+Scandinavian,1,0.0,2016,1,Evening,Weekday
+Fudge,1,0.0,2016,2,Evening,Weekday
+Juice,1,0.0,2016,2,Evening,Weekday
+Mineral water,1,0.0,2016,2,Evening,Weekday
+Tea,1,0.0,2016,3,Evening,Weekday
+Focaccia,1,0.0,2016,3,Evening,Weekday
+Farm House,1,0.0,2016,3,Evening,Weekday
+Dulce de Leche,1,0.0,2016,3,Evening,Weekday
+Juice,1,0.0,2016,3,Evening,Weekday
+My-5 Fruit Shoot,1,0.0,2016,3,Evening,Weekday
+Ella's Kitchen Pouches,1,0.0,2016,3,Evening,Weekday
+Cookies,1,0.0,2016,3,Evening,Weekday
+Bread,1,0.0,2016,3,Evening,Weekday
+Hot chocolate,1,0.0,2016,3,Evening,Weekday
+Hot chocolate,1,0.0,2016,4,Evening,Weekday
+Coffee,1,0.0,2016,4,Evening,Weekday
+Alfajores,1,0.0,2016,4,Evening,Weekday
+Cookies,1,0.0,2016,4,Evening,Weekday
+Tea,1,0.0,2016,4,Evening,Weekday
+Dulce de Leche,1,0.0,2016,4,Evening,Weekday
+Cookies,1,0.0,2016,7,Evening,Weekday
+Scandinavian,1,0.0,2016,7,Evening,Weekday
+Bread,1,0.0,2016,7,Evening,Weekday
+Empanadas,1,0.0,2016,7,Evening,Weekday
+Medialuna,1,0.0,2016,7,Evening,Weekday
+Medialuna,1,0.0,2016,8,Evening,Weekday
+Farm House,1,0.0,2016,8,Evening,Weekday
+Coffee,1,0.0,2016,9,Evening,Weekday
+Sandwich,1,0.0,2016,9,Evening,Weekday
+Tea,1,0.0,2016,9,Evening,Weekday
+Scandinavian,1,0.0,2016,9,Evening,Weekday
+Adjustment,1,0.0,2016,9,Evening,Weekday
+Coke,1,0.0,2016,10,Evening,Weekday
+Cookies,1,0.0,2016,11,Evening,Weekday
+Coke,1,0.0,2016,11,Evening,Weekday
+Hack the stack,1,0.0,2016,11,Evening,Weekday
+My-5 Fruit Shoot,1,0.0,2016,11,Evening,Weekday
+Art Tray,1,0.0,2016,11,Evening,Weekday
+Ella's Kitchen Pouches,1,0.0,2016,11,Evening,Weekday
+Cake,1,0.0,2016,1,Evening,Weekday
+Bread,1,0.0,2016,2,Evening,Weekday
+Fudge,1,0.0,2016,7,Evening,Weekday
+Jam,1,0.0,2016,7,Evening,Weekday
+Cake,1,0.0,2016,7,Evening,Weekday
+Bare Popcorn,1,0.0,2016,12,Evening,Weekday
+Ella's Kitchen Pouches,1,0.0,2016,12,Evening,Weekday
+Pastry,1,0.0,2016,12,Evening,Weekday
+Tea,1,0.0,2016,12,Evening,Weekday
+Jammie Dodgers,1,0.0,2016,12,Evening,Weekday
+Alfajores,1,0.0,2016,12,Evening,Weekday
+Scandinavian,1,0.0,2016,12,Evening,Weekday
+Farm House,1,0.0,2017,4,Evening,Weekday
+Bread,1,0.0,2017,5,Evening,Weekday
+Hot chocolate,1,0.0,2017,1,Evening,Weekday
+Jammie Dodgers,1,0.0,2017,1,Evening,Weekday
+Focaccia,1,0.0,2017,1,Evening,Weekday
+Fudge,1,0.0,2017,1,Evening,Weekday
+Farm House,1,0.0,2017,1,Evening,Weekday
+Brownie,1,0.0,2017,1,Evening,Weekday
+Truffles,1,0.0,2017,1,Evening,Weekday
+Coke,1,0.0,2017,1,Evening,Weekday
+Bread,1,0.0,2017,6,Evening,Weekday
+Pastry,1,0.0,2017,6,Evening,Weekday
+Medialuna,1,0.0,2017,6,Evening,Weekday
+Hot chocolate,1,0.0,2017,6,Evening,Weekday
+Coffee,1,0.0,2017,6,Evening,Weekday
+Smoothies,1,0.0,2017,7,Evening,Weekday
+Mineral water,1,0.0,2017,7,Evening,Weekday
+Alfajores,1,0.0,2017,7,Evening,Weekday
+Brownie,1,0.0,2017,7,Evening,Weekday
+Coffee,1,0.0,2017,7,Evening,Weekday
+Baguette,1,0.0,2017,7,Evening,Weekday
+Eggs,1,0.0,2017,2,Evening,Weekday
+Fudge,1,0.0,2017,2,Evening,Weekday
+Scone,1,0.0,2017,2,Evening,Weekday
+Chicken Stew,1,0.0,2017,2,Evening,Weekday
+Juice,1,0.0,2017,2,Evening,Weekday
+Tiffin,1,0.0,2017,2,Evening,Weekday
+Jam,1,0.0,2017,2,Evening,Weekday
+Vegan Feast,1,0.0,2017,2,Evening,Weekday
+Pastry,1,0.0,2017,2,Evening,Weekday
+Coffee,1,0.0,2017,8,Evening,Weekday
+Tiffin,1,0.0,2017,8,Evening,Weekday
+Cake,1,0.0,2017,8,Evening,Weekday
+Truffles,1,0.0,2017,8,Evening,Weekday
+Tea,1,0.0,2017,9,Evening,Weekday
+Cake,1,0.0,2017,9,Evening,Weekday
+Scone,1,0.0,2017,9,Evening,Weekday
+Medialuna,1,0.0,2017,3,Evening,Weekday
+Jammie Dodgers,1,0.0,2017,3,Evening,Weekday
+Vegan Feast,1,0.0,2017,3,Evening,Weekday
+Brownie,1,0.0,2017,3,Evening,Weekday
+Jam,1,0.0,2017,3,Evening,Weekday
+Mortimer,1,0.0,2017,3,Evening,Weekday
+Alfajores,1,0.0,2017,3,Evening,Weekday
+Chicken Stew,1,0.0,2017,4,Evening,Weekday
+Tea,1,0.0,2017,4,Evening,Weekday
+Chocolates,1,0.0,2017,5,Evening,Weekday
+Coke,1,0.0,2017,5,Evening,Weekday
+Juice,1,0.0,2017,5,Evening,Weekday
+Tiffin,1,0.0,2017,5,Evening,Weekday
+Alfajores,1,0.0,2017,5,Evening,Weekday
+Cookies,1,0.0,2017,5,Evening,Weekday
+Mineral water,1,0.0,2017,5,Evening,Weekday
+Tiffin,1,0.0,2017,6,Evening,Weekday
+Cookies,1,0.0,2017,6,Evening,Weekday
+Chicken Stew,1,0.0,2017,7,Evening,Weekday
+Coke,1,0.0,2016,10,Morning,Weekday
+My-5 Fruit Shoot,1,0.0,2016,10,Morning,Weekday
+Soup,1,0.0,2016,10,Morning,Weekday
+Ella's Kitchen Pouches,1,0.0,2016,1,Morning,Weekday
+Victorian Sponge,1,0.0,2016,1,Morning,Weekday
+Soup,1,0.0,2016,1,Morning,Weekday
+Cake,1,0.0,2016,1,Morning,Weekday
+Coke,1,0.0,2016,2,Morning,Weekday
+Juice,1,0.0,2016,2,Morning,Weekday
+Hearty & Seasonal,1,0.0,2016,2,Morning,Weekday
+Tartine,1,0.0,2016,2,Morning,Weekday
+Sandwich,1,0.0,2016,3,Morning,Weekday
+Focaccia,1,0.0,2016,3,Morning,Weekday
+Tartine,1,0.0,2016,3,Morning,Weekday
+My-5 Fruit Shoot,1,0.0,2016,3,Morning,Weekday
+Brownie,1,0.0,2016,3,Morning,Weekday
+Alfajores,1,0.0,2016,3,Morning,Weekday
+Smoothies,1,0.0,2016,3,Morning,Weekday
+Hearty & Seasonal,1,0.0,2016,3,Morning,Weekday
+Hot chocolate,1,0.0,2016,4,Morning,Weekday
+Honey,1,0.0,2016,4,Morning,Weekday
+Cookies,1,0.0,2016,4,Morning,Weekday
+The BART,1,0.0,2016,4,Morning,Weekday
+Mineral water,1,0.0,2016,4,Morning,Weekday
+Tartine,1,0.0,2016,4,Morning,Weekday
+Juice,1,0.0,2016,4,Morning,Weekday
+Alfajores,1,0.0,2016,4,Morning,Weekday
+Sandwich,1,0.0,2016,7,Morning,Weekday
+Empanadas,1,0.0,2016,7,Morning,Weekday
+Keeping It Local,1,0.0,2016,7,Morning,Weekday
+Tartine,1,0.0,2016,7,Morning,Weekday
+Keeping It Local,1,0.0,2016,8,Morning,Weekday
+Tartine,1,0.0,2016,8,Morning,Weekday
+Hot chocolate,1,0.0,2016,8,Morning,Weekday
+Coke,1,0.0,2016,8,Morning,Weekday
+Scandinavian,1,0.0,2016,8,Morning,Weekday
+Farm House,1,0.0,2016,9,Morning,Weekday
+Hot chocolate,1,0.0,2016,9,Morning,Weekday
+Focaccia,1,0.0,2016,9,Morning,Weekday
+Cookies,1,0.0,2016,9,Morning,Weekday
+Tartine,1,0.0,2016,9,Morning,Weekday
+Alfajores,1,0.0,2016,10,Morning,Weekday
+Keeping It Local,1,0.0,2016,10,Morning,Weekday
+Focaccia,1,0.0,2016,10,Morning,Weekday
+Truffles,1,0.0,2016,10,Morning,Weekday
+Art Tray,1,0.0,2016,10,Morning,Weekday
+Granola,1,0.0,2016,11,Morning,Weekday
+Mineral water,1,0.0,2016,11,Morning,Weekday
+The Nomad,1,0.0,2016,11,Morning,Weekday
+Tartine,1,0.0,2016,11,Morning,Weekday
+Muffin,1,0.0,2016,1,Morning,Weekday
+The Nomad,1,0.0,2016,1,Morning,Weekday
+Medialuna,1,0.0,2016,1,Morning,Weekday
+Keeping It Local,1,0.0,2016,2,Morning,Weekday
+Sandwich,1,0.0,2016,2,Morning,Weekday
+Toast,1,0.0,2016,2,Morning,Weekday
+Fudge,1,0.0,2016,2,Morning,Weekday
+Alfajores,1,0.0,2016,5,Morning,Weekday
+Juice,1,0.0,2016,5,Morning,Weekday
+Sandwich,1,0.0,2016,5,Morning,Weekday
+Dulce de Leche,1,0.0,2016,5,Morning,Weekday
+Jam,1,0.0,2016,5,Morning,Weekday
+Cookies,1,0.0,2016,5,Morning,Weekday
+Farm House,1,0.0,2016,6,Morning,Weekday
+Coke,1,0.0,2016,6,Morning,Weekday
+Toast,1,0.0,2016,6,Morning,Weekday
+Vegan mincepie,1,0.0,2016,8,Morning,Weekday
+Mineral water,1,0.0,2016,8,Morning,Weekday
+Cookies,1,0.0,2016,8,Morning,Weekday
+Sandwich,1,0.0,2016,8,Morning,Weekday
+Sandwich,1,0.0,2016,9,Morning,Weekday
+Juice,1,0.0,2016,9,Morning,Weekday
+Coke,1,0.0,2016,9,Morning,Weekday
+Cake,1,0.0,2016,9,Morning,Weekday
+The Nomad,1,0.0,2016,9,Morning,Weekday
+Art Tray,1,0.0,2016,12,Morning,Weekday
+Panatone,1,0.0,2016,12,Morning,Weekday
+Frittata,1,0.0,2016,12,Morning,Weekday
+Hot chocolate,1,0.0,2017,4,Morning,Weekday
+Ella's Kitchen Pouches,1,0.0,2017,5,Morning,Weekday
+Cake,1,0.0,2017,5,Morning,Weekday
+Muffin,1,0.0,2017,6,Morning,Weekday
+Sandwich,1,0.0,2017,11,Morning,Weekday
+Tiffin,1,0.0,2017,11,Morning,Weekday
+Cookies,1,0.0,2017,11,Morning,Weekday
+Granola,1,0.0,2017,11,Morning,Weekday
+Scone,1,0.0,2017,11,Morning,Weekday
+Farm House,1,0.0,2017,12,Morning,Weekday
+Juice,1,0.0,2017,12,Morning,Weekday
+Hot chocolate,1,0.0,2017,12,Morning,Weekday
+Tiffin,1,0.0,2017,12,Morning,Weekday
+Vegan mincepie,1,0.0,2017,12,Morning,Weekday
+Soup,1,0.0,2017,1,Morning,Weekday
+Mineral water,1,0.0,2017,1,Morning,Weekday
+Jammie Dodgers,1,0.0,2017,1,Morning,Weekday
+Truffles,1,0.0,2017,1,Morning,Weekday
+Chicken Stew,1,0.0,2017,1,Morning,Weekday
+Extra Salami or Feta,1,0.0,2017,1,Morning,Weekday
+Focaccia,1,0.0,2017,1,Morning,Weekday
+Eggs,1,0.0,2017,1,Morning,Weekday
+Art Tray,1,0.0,2017,1,Morning,Weekday
+The Nomad,1,0.0,2017,1,Morning,Weekday
+Jam,1,0.0,2017,1,Morning,Weekday
+Gingerbread syrup,1,0.0,2017,3,Morning,Weekday
+Baguette,1,0.0,2017,6,Morning,Weekday
+Sandwich,1,0.0,2017,6,Morning,Weekday
+Jam,1,0.0,2017,6,Morning,Weekday
+Farm House,1,0.0,2017,7,Morning,Weekday
+Scandinavian,1,0.0,2017,7,Morning,Weekday
+Nomad bag,1,0.0,2017,7,Morning,Weekday
+Brownie,1,0.0,2017,7,Morning,Weekday
+Salad,1,0.0,2017,7,Morning,Weekday
+Alfajores,1,0.0,2017,7,Morning,Weekday
+Eggs,1,0.0,2017,7,Morning,Weekday
+Eggs,1,0.0,2017,8,Morning,Weekday
+Nomad bag,1,0.0,2017,8,Morning,Weekday
+Spanish Brunch,1,0.0,2017,8,Morning,Weekday
+Mineral water,1,0.0,2017,8,Morning,Weekday
+Crisps,1,0.0,2017,8,Morning,Weekday
+Sandwich,1,0.0,2017,8,Morning,Weekday
+Scandinavian,1,0.0,2017,9,Morning,Weekday
+Extra Salami or Feta,1,0.0,2017,9,Morning,Weekday
+Sandwich,1,0.0,2017,9,Morning,Weekday
+Valentine's card,1,0.0,2017,10,Morning,Weekday
+Alfajores,1,0.0,2017,10,Morning,Weekday
+Focaccia,1,0.0,2017,2,Morning,Weekday
+Mineral water,1,0.0,2017,2,Morning,Weekday
+Salad,1,0.0,2017,2,Morning,Weekday
+Truffles,1,0.0,2017,2,Morning,Weekday
+Chicken Stew,1,0.0,2017,3,Morning,Weekday
+Soup,1,0.0,2017,6,Morning,Weekday
+Coke,1,0.0,2017,7,Morning,Weekday
+Granola,1,0.0,2017,7,Morning,Weekday
+Hot chocolate,1,0.0,2017,8,Morning,Weekday
+Toast,1,0.0,2017,8,Morning,Weekday
+Cake,1,0.0,2017,8,Morning,Weekday
+Baguette,1,0.0,2017,8,Morning,Weekday
+Jammie Dodgers,1,0.0,2017,9,Morning,Weekday
+Spanish Brunch,1,0.0,2017,10,Morning,Weekday
+Baguette,1,0.0,2017,10,Morning,Weekday
+Jam,1,0.0,2017,10,Morning,Weekday
+Truffles,1,0.0,2017,10,Morning,Weekday
+Vegan Feast,1,0.0,2017,10,Morning,Weekday
+Brownie,1,0.0,2017,10,Morning,Weekday
+Afternoon with the baker,1,0.0,2017,3,Morning,Weekday
+Gift voucher,1,0.0,2017,3,Morning,Weekday
+Crisps,1,0.0,2017,3,Morning,Weekday
+The Nomad,1,0.0,2017,3,Morning,Weekday
+Mineral water,1,0.0,2017,4,Morning,Weekday
+Cookies,1,0.0,2017,4,Morning,Weekday
+Extra Salami or Feta,1,0.0,2017,4,Morning,Weekday
+Tea,1,0.0,2017,4,Morning,Weekday
+Coke,1,0.0,2017,4,Morning,Weekday
+Honey,1,0.0,2017,4,Morning,Weekday
+Eggs,1,0.0,2017,4,Morning,Weekday
+Jam,1,0.0,2017,5,Morning,Weekday
+Christmas common,1,0.0,2017,5,Morning,Weekday
+Salad,1,0.0,2017,5,Morning,Weekday
+Brioche and salami,1,0.0,2017,6,Morning,Weekday
+Christmas common,1,0.0,2017,6,Morning,Weekday
+Tiffin,1,0.0,2017,7,Morning,Weekday
+Juice,1,0.0,2017,7,Morning,Weekday
+Muffin,1,0.0,2017,7,Morning,Weekday
+Pick and Mix Bowls,1,0.0,2016,10,Afternoon,Weekday
+Mighty Protein,1,0.0,2016,10,Afternoon,Weekday
+Jam,1,0.0,2016,1,Afternoon,Weekday
+Eggs,1,0.0,2016,1,Afternoon,Weekday
+Tartine,1,0.0,2016,2,Afternoon,Weekday
+Smoothies,1,0.0,2016,2,Afternoon,Weekday
+Mineral water,1,0.0,2016,3,Afternoon,Weekday
+Ella's Kitchen Pouches,1,0.0,2016,3,Afternoon,Weekday
+Mighty Protein,1,0.0,2016,4,Afternoon,Weekday
+Cake,1,0.0,2016,4,Afternoon,Weekday
+Hearty & Seasonal,1,0.0,2016,7,Afternoon,Weekday
+Pastry,1,0.0,2016,7,Afternoon,Weekday
+Empanadas,1,0.0,2016,7,Afternoon,Weekday
+Tartine,1,0.0,2016,7,Afternoon,Weekday
+Frittata,1,0.0,2016,8,Afternoon,Weekday
+Focaccia,1,0.0,2016,8,Afternoon,Weekday
+Tartine,1,0.0,2016,8,Afternoon,Weekday
+Bowl Nic Pitt,1,0.0,2016,8,Afternoon,Weekday
+Bread Pudding,1,0.0,2016,8,Afternoon,Weekday
+Coke,1,0.0,2016,9,Afternoon,Weekday
+Pastry,1,0.0,2016,9,Afternoon,Weekday
+Eggs,1,0.0,2016,9,Afternoon,Weekday
+Muffin,1,0.0,2016,9,Afternoon,Weekday
+Tartine,1,0.0,2016,9,Afternoon,Weekday
+Jam,1,0.0,2016,9,Afternoon,Weekday
+Focaccia,1,0.0,2016,9,Afternoon,Weekday
+My-5 Fruit Shoot,1,0.0,2016,9,Afternoon,Weekday
+Smoothies,1,0.0,2016,10,Afternoon,Weekday
+Keeping It Local,1,0.0,2016,10,Afternoon,Weekday
+Chimichurri Oil,1,0.0,2016,10,Afternoon,Weekday
+Art Tray,1,0.0,2016,10,Afternoon,Weekday
+Chimichurri Oil,1,0.0,2016,11,Afternoon,Weekday
+Fairy Doors,1,0.0,2016,11,Afternoon,Weekday
+Focaccia,1,0.0,2016,11,Afternoon,Weekday
+Victorian Sponge,1,0.0,2016,11,Afternoon,Weekday
+Olum & polenta,1,0.0,2016,11,Afternoon,Weekday
+Polenta,1,0.0,2016,11,Afternoon,Weekday
+Hack the stack,1,0.0,2016,11,Afternoon,Weekday
+Bakewell,1,0.0,2016,11,Afternoon,Weekday
+Keeping It Local,1,0.0,2016,1,Afternoon,Weekday
+Farm House,1,0.0,2016,1,Afternoon,Weekday
+Spread,1,0.0,2016,1,Afternoon,Weekday
+Pastry,1,0.0,2016,2,Afternoon,Weekday
+Truffles,1,0.0,2016,2,Afternoon,Weekday
+Farm House,1,0.0,2016,5,Afternoon,Weekday
+Pastry,1,0.0,2016,5,Afternoon,Weekday
+Juice,1,0.0,2016,5,Afternoon,Weekday
+Cake,1,0.0,2016,5,Afternoon,Weekday
+Hearty & Seasonal,1,0.0,2016,5,Afternoon,Weekday
+Coke,1,0.0,2016,5,Afternoon,Weekday
+Hot chocolate,1,0.0,2016,5,Afternoon,Weekday
+Cake,1,0.0,2016,7,Afternoon,Weekday
+Crepes,1,0.0,2016,7,Afternoon,Weekday
+Truffles,1,0.0,2016,7,Afternoon,Weekday
+Jam,1,0.0,2016,7,Afternoon,Weekday
+Mineral water,1,0.0,2016,7,Afternoon,Weekday
+The Nomad,1,0.0,2016,9,Afternoon,Weekday
+Crepes,1,0.0,2016,9,Afternoon,Weekday
+Hot chocolate,1,0.0,2016,9,Afternoon,Weekday
+Focaccia,1,0.0,2016,12,Afternoon,Weekday
+Brioche and salami,1,0.0,2016,12,Afternoon,Weekday
+Muesli,1,0.0,2016,12,Afternoon,Weekday
+The Nomad,1,0.0,2016,12,Afternoon,Weekday
+Muesli,1,0.0,2017,4,Afternoon,Weekday
+Coke,1,0.0,2017,4,Afternoon,Weekday
+Muffin,1,0.0,2017,4,Afternoon,Weekday
+Medialuna,1,0.0,2017,4,Afternoon,Weekday
+Farm House,1,0.0,2017,4,Afternoon,Weekday
+Vegan mincepie,1,0.0,2017,5,Afternoon,Weekday
+Fudge,1,0.0,2017,5,Afternoon,Weekday
+Medialuna,1,0.0,2017,5,Afternoon,Weekday
+Brownie,1,0.0,2017,5,Afternoon,Weekday
+Eggs,1,0.0,2017,5,Afternoon,Weekday
+The Nomad,1,0.0,2017,9,Afternoon,Weekday
+Jammie Dodgers,1,0.0,2017,10,Afternoon,Weekday
+Frittata,1,0.0,2017,10,Afternoon,Weekday
+Hearty & Seasonal,1,0.0,2017,10,Afternoon,Weekday
+Fudge,1,0.0,2017,10,Afternoon,Weekday
+Hearty & Seasonal,1,0.0,2017,11,Afternoon,Weekday
+Art Tray,1,0.0,2017,11,Afternoon,Weekday
+Muffin,1,0.0,2017,11,Afternoon,Weekday
+Alfajores,1,0.0,2017,11,Afternoon,Weekday
+Tiffin,1,0.0,2017,11,Afternoon,Weekday
+Scone,1,0.0,2017,11,Afternoon,Weekday
+Cookies,1,0.0,2017,11,Afternoon,Weekday
+Farm House,1,0.0,2017,12,Afternoon,Weekday
+Tiffin,1,0.0,2017,12,Afternoon,Weekday
+Jammie Dodgers,1,0.0,2017,12,Afternoon,Weekday
+Ella's Kitchen Pouches,1,0.0,2017,1,Afternoon,Weekday
+Raspberry shortbread sandwich,1,0.0,2017,1,Afternoon,Weekday
+Granola,1,0.0,2017,1,Afternoon,Weekday
+Valentine's card,1,0.0,2017,2,Afternoon,Weekday
+Baguette,1,0.0,2017,6,Afternoon,Weekday
+Chocolates,1,0.0,2017,7,Afternoon,Weekday
+Eggs,1,0.0,2017,7,Afternoon,Weekday
+Brownie,1,0.0,2017,7,Afternoon,Weekday
+Medialuna,1,0.0,2017,8,Afternoon,Weekday
+Art Tray,1,0.0,2017,8,Afternoon,Weekday
+Jam,1,0.0,2017,9,Afternoon,Weekday
+Eggs,1,0.0,2017,9,Afternoon,Weekday
+Fudge,1,0.0,2017,9,Afternoon,Weekday
+Brownie,1,0.0,2017,9,Afternoon,Weekday
+Duck egg,1,0.0,2017,10,Afternoon,Weekday
+Afternoon with the baker,1,0.0,2017,10,Afternoon,Weekday
+The Nomad,1,0.0,2017,10,Afternoon,Weekday
+Hot chocolate,1,0.0,2017,10,Afternoon,Weekday
+Vegan Feast,1,0.0,2017,2,Afternoon,Weekday
+Art Tray,1,0.0,2017,2,Afternoon,Weekday
+Duck egg,1,0.0,2017,2,Afternoon,Weekday
+Eggs,1,0.0,2017,2,Afternoon,Weekday
+Granola,1,0.0,2017,2,Afternoon,Weekday
+Mineral water,1,0.0,2017,1,Afternoon,Weekday
+Duck egg,1,0.0,2017,1,Afternoon,Weekday
+Duck egg,1,0.0,2017,3,Afternoon,Weekday
+Drinking chocolate spoons ,1,0.0,2017,6,Afternoon,Weekday
+Jam,1,0.0,2017,7,Afternoon,Weekday
+Fudge,1,0.0,2017,7,Afternoon,Weekday
+Salad,1,0.0,2017,8,Afternoon,Weekday
+Truffles,1,0.0,2017,8,Afternoon,Weekday
+Jammie Dodgers,1,0.0,2017,8,Afternoon,Weekday
+Juice,1,0.0,2017,8,Afternoon,Weekday
+Christmas common,1,0.0,2017,9,Afternoon,Weekday
+Vegan mincepie,1,0.0,2017,10,Afternoon,Weekday
+Mineral water,1,0.0,2017,10,Afternoon,Weekday
+Coffee granules ,1,0.0,2017,3,Afternoon,Weekday
+Granola,1,0.0,2017,3,Afternoon,Weekday
+Mortimer,1,0.0,2017,3,Afternoon,Weekday
+Argentina Night,1,0.0,2017,3,Afternoon,Weekday
+Nomad bag,1,0.0,2017,3,Afternoon,Weekday
+The Nomad,1,0.0,2017,3,Afternoon,Weekday
+Art Tray,1,0.0,2017,3,Afternoon,Weekday
+Raw bars,1,0.0,2017,3,Afternoon,Weekday
+Drinking chocolate spoons ,1,0.0,2017,4,Afternoon,Weekday
+Chicken Stew,1,0.0,2017,4,Afternoon,Weekday
+Spanish Brunch,1,0.0,2017,4,Afternoon,Weekday
+Baguette,1,0.0,2017,4,Afternoon,Weekday
+Smoothies,1,0.0,2017,4,Afternoon,Weekday
+Chicken Stew,1,0.0,2017,5,Afternoon,Weekday
+Extra Salami or Feta,1,0.0,2017,5,Afternoon,Weekday
+Drinking chocolate spoons ,1,0.0,2017,5,Afternoon,Weekday
+Jammie Dodgers,1,0.0,2017,5,Afternoon,Weekday
+Farm House,1,0.0,2017,5,Afternoon,Weekday
+Scandinavian,1,0.0,2017,5,Afternoon,Weekday
+Spanish Brunch,1,0.0,2017,5,Afternoon,Weekday
+Soup,1,0.0,2017,5,Afternoon,Weekday
+Art Tray,1,0.0,2017,6,Afternoon,Weekday
+Smoothies,1,0.0,2017,6,Afternoon,Weekday
+Crisps,1,0.0,2017,6,Afternoon,Weekday
+Muffin,1,0.0,2017,7,Afternoon,Weekday
+Scandinavian,1,0.0,2017,8,Night,Weekend
+Medialuna,1,0.0,2016,5,Evening,Weekend
+Pastry,1,0.0,2016,5,Evening,Weekend
+Alfajores,1,0.0,2016,6,Evening,Weekend
+Pastry,1,0.0,2016,6,Evening,Weekend
+Dulce de Leche,1,0.0,2016,6,Evening,Weekend
+Art Tray,1,0.0,2016,11,Evening,Weekend
+Tartine,1,0.0,2016,11,Evening,Weekend
+Fudge,1,0.0,2016,11,Evening,Weekend
+My-5 Fruit Shoot,1,0.0,2016,11,Evening,Weekend
+Kids biscuit,1,0.0,2016,11,Evening,Weekend
+Muffin,1,0.0,2016,11,Evening,Weekend
+Farm House,1,0.0,2016,11,Evening,Weekend
+Jam,1,0.0,2016,10,Evening,Weekend
+Focaccia,1,0.0,2016,12,Evening,Weekend
+Juice,1,0.0,2016,12,Evening,Weekend
+Cake,1,0.0,2016,12,Evening,Weekend
+Tea,1,0.0,2016,12,Evening,Weekend
+Cake,1,0.0,2017,4,Evening,Weekend
+Alfajores,1,0.0,2017,4,Evening,Weekend
+Mineral water,1,0.0,2017,4,Evening,Weekend
+Vegan Feast,1,0.0,2017,4,Evening,Weekend
+Fudge,1,0.0,2017,4,Evening,Weekend
+Nomad bag,1,0.0,2017,4,Evening,Weekend
+Afternoon with the baker,1,0.0,2017,11,Evening,Weekend
+Soup,1,0.0,2017,11,Evening,Weekend
+Scandinavian,1,0.0,2017,4,Evening,Weekend
+Juice,1,0.0,2017,11,Evening,Weekend
+Cookies,1,0.0,2017,11,Evening,Weekend
+The Nomad,1,0.0,2017,11,Evening,Weekend
+Duck egg,1,0.0,2017,11,Evening,Weekend
+Hot chocolate,1,0.0,2017,11,Evening,Weekend
+Scone,1,0.0,2017,11,Evening,Weekend
+Coke,1,0.0,2017,3,Evening,Weekend
+Salad,1,0.0,2017,3,Evening,Weekend
+Afternoon with the baker,1,0.0,2017,3,Evening,Weekend
+Bread,1,0.0,2017,3,Evening,Weekend
+Juice,1,0.0,2017,3,Evening,Weekend
+Cake,1,0.0,2017,3,Evening,Weekend
+Mortimer,1,0.0,2017,3,Evening,Weekend
+Coffee granules ,1,0.0,2017,3,Evening,Weekend
+Chicken Stew,1,0.0,2017,1,Evening,Weekend
+Extra Salami or Feta,1,0.0,2017,1,Evening,Weekend
+Tea,1,0.0,2017,1,Evening,Weekend
+Scone,1,0.0,2017,1,Evening,Weekend
+Medialuna,1,0.0,2017,1,Evening,Weekend
+Cookies,1,0.0,2016,10,Morning,Weekend
+Mineral water,1,0.0,2016,10,Morning,Weekend
+Fudge,1,0.0,2016,10,Morning,Weekend
+Granola,1,0.0,2016,5,Morning,Weekend
+Smoothies,1,0.0,2016,5,Morning,Weekend
+Tartine,1,0.0,2016,5,Morning,Weekend
+Mighty Protein,1,0.0,2016,5,Morning,Weekend
+Hearty & Seasonal,1,0.0,2016,5,Morning,Weekend
+Victorian Sponge,1,0.0,2016,5,Morning,Weekend
+Hearty & Seasonal,1,0.0,2016,6,Morning,Weekend
+Basket,1,0.0,2016,6,Morning,Weekend
+My-5 Fruit Shoot,1,0.0,2016,6,Morning,Weekend
+Fudge,1,0.0,2016,6,Morning,Weekend
+Tartine,1,0.0,2016,12,Morning,Weekend
+Caramel bites,1,0.0,2016,11,Morning,Weekend
+Ella's Kitchen Pouches,1,0.0,2016,11,Morning,Weekend
+My-5 Fruit Shoot,1,0.0,2016,11,Morning,Weekend
+The Nomad,1,0.0,2016,11,Morning,Weekend
+Muffin,1,0.0,2016,3,Morning,Weekend
+Alfajores,1,0.0,2016,3,Morning,Weekend
+Juice,1,0.0,2016,3,Morning,Weekend
+Tartine,1,0.0,2016,3,Morning,Weekend
+Coke,1,0.0,2016,3,Morning,Weekend
+Scone,1,0.0,2016,4,Morning,Weekend
+Ella's Kitchen Pouches,1,0.0,2016,4,Morning,Weekend
+Hot chocolate,1,0.0,2016,4,Morning,Weekend
+Farm House,1,0.0,2016,4,Morning,Weekend
+Brownie,1,0.0,2016,10,Morning,Weekend
+Vegan mincepie,1,0.0,2016,10,Morning,Weekend
+Coke,1,0.0,2016,11,Morning,Weekend
+Truffles,1,0.0,2016,11,Morning,Weekend
+Lemon and coconut,1,0.0,2016,12,Morning,Weekend
+Dulce de Leche,1,0.0,2016,12,Morning,Weekend
+Muesli,1,0.0,2016,12,Morning,Weekend
+Panatone,1,0.0,2016,12,Morning,Weekend
+Gingerbread syrup,1,0.0,2016,12,Morning,Weekend
+Crisps,1,0.0,2016,12,Morning,Weekend
+Frittata,1,0.0,2016,12,Morning,Weekend
+Art Tray,1,0.0,2016,12,Morning,Weekend
+Tea,1,0.0,2017,7,Morning,Weekend
+Toast,1,0.0,2017,7,Morning,Weekend
+Sandwich,1,0.0,2017,7,Morning,Weekend
+Tiffin,1,0.0,2017,8,Morning,Weekend
+Jammie Dodgers,1,0.0,2017,1,Morning,Weekend
+Brioche and salami,1,0.0,2017,1,Morning,Weekend
+Raspberry shortbread sandwich,1,0.0,2017,1,Morning,Weekend
+Vegan mincepie,1,0.0,2017,1,Morning,Weekend
+Smoothies,1,0.0,2017,1,Morning,Weekend
+Focaccia,1,0.0,2017,1,Morning,Weekend
+Salad,1,0.0,2017,1,Morning,Weekend
+Extra Salami or Feta,1,0.0,2017,1,Morning,Weekend
+Soup,1,0.0,2017,1,Morning,Weekend
+Jam,1,0.0,2017,4,Morning,Weekend
+Baguette,1,0.0,2017,5,Morning,Weekend
+Nomad bag,1,0.0,2017,11,Morning,Weekend
+Alfajores,1,0.0,2017,11,Morning,Weekend
+Eggs,1,0.0,2017,12,Morning,Weekend
+Juice,1,0.0,2017,12,Morning,Weekend
+Tea,1,0.0,2017,12,Morning,Weekend
+Hot chocolate,1,0.0,2017,12,Morning,Weekend
+Chocolates,1,0.0,2017,2,Morning,Weekend
+Nomad bag,1,0.0,2017,2,Morning,Weekend
+Mineral water,1,0.0,2017,2,Morning,Weekend
+Soup,1,0.0,2017,2,Morning,Weekend
+Art Tray,1,0.0,2017,2,Morning,Weekend
+Medialuna,1,0.0,2017,4,Morning,Weekend
+Jammie Dodgers,1,0.0,2017,4,Morning,Weekend
+Mineral water,1,0.0,2017,4,Morning,Weekend
+Spanish Brunch,1,0.0,2017,4,Morning,Weekend
+The Nomad,1,0.0,2017,4,Morning,Weekend
+The Nomad,1,0.0,2017,5,Morning,Weekend
+Tiffin,1,0.0,2017,5,Morning,Weekend
+Jam,1,0.0,2017,5,Morning,Weekend
+Soup,1,0.0,2017,5,Morning,Weekend
+Juice,1,0.0,2017,5,Morning,Weekend
+Duck egg,1,0.0,2017,11,Morning,Weekend
+Chocolates,1,0.0,2017,11,Morning,Weekend
+Coke,1,0.0,2017,11,Morning,Weekend
+Jam,1,0.0,2017,11,Morning,Weekend
+Truffles,1,0.0,2017,11,Morning,Weekend
+Soup,1,0.0,2017,11,Morning,Weekend
+Muffin,1,0.0,2017,11,Morning,Weekend
+Tiffin,1,0.0,2017,11,Morning,Weekend
+Sandwich,1,0.0,2017,12,Morning,Weekend
+Muffin,1,0.0,2017,12,Morning,Weekend
+Vegan Feast,1,0.0,2017,12,Morning,Weekend
+Afternoon with the baker,1,0.0,2017,3,Morning,Weekend
+Brownie,1,0.0,2017,3,Morning,Weekend
+Drinking chocolate spoons ,1,0.0,2017,3,Morning,Weekend
+Coffee granules ,1,0.0,2017,3,Morning,Weekend
+Granola,1,0.0,2017,3,Morning,Weekend
+Extra Salami or Feta,1,0.0,2017,3,Morning,Weekend
+Coffee granules ,1,0.0,2017,1,Morning,Weekend
+Hot chocolate,1,0.0,2017,8,Morning,Weekend
+Honey,1,0.0,2017,8,Morning,Weekend
+Salad,1,0.0,2017,8,Morning,Weekend
+Extra Salami or Feta,1,0.0,2017,8,Morning,Weekend
+Juice,1,0.0,2017,8,Morning,Weekend
+Brownie,1,0.0,2017,8,Morning,Weekend
+Sandwich,1,0.0,2017,8,Morning,Weekend
+Granola,1,0.0,2017,8,Morning,Weekend
+Christmas common,1,0.0,2017,8,Morning,Weekend
+Tacos/Fajita,1,0.0,2017,8,Morning,Weekend
+Smoothies,1,0.0,2017,8,Morning,Weekend
+Medialuna,1,0.0,2017,9,Morning,Weekend
+Baguette,1,0.0,2017,9,Morning,Weekend
+Half slice Monster ,1,0.0,2017,9,Morning,Weekend
+My-5 Fruit Shoot,1,0.0,2017,9,Morning,Weekend
+Toast,1,0.0,2017,9,Morning,Weekend
+Extra Salami or Feta,1,0.0,2017,9,Morning,Weekend
+Ella's Kitchen Pouches,1,0.0,2016,10,Afternoon,Weekend
+Soup,1,0.0,2016,10,Afternoon,Weekend
+Cookies,1,0.0,2016,10,Afternoon,Weekend
+Pick and Mix Bowls,1,0.0,2016,10,Afternoon,Weekend
+Smoothies,1,0.0,2016,10,Afternoon,Weekend
+Tartine,1,0.0,2016,10,Afternoon,Weekend
+Mighty Protein,1,0.0,2016,10,Afternoon,Weekend
+Chicken sand,1,0.0,2016,10,Afternoon,Weekend
+My-5 Fruit Shoot,1,0.0,2016,5,Afternoon,Weekend
+Fairy Doors,1,0.0,2016,5,Afternoon,Weekend
+Tartine,1,0.0,2016,5,Afternoon,Weekend
+Granola,1,0.0,2016,5,Afternoon,Weekend
+Mineral water,1,0.0,2016,6,Afternoon,Weekend
+Soup,1,0.0,2016,6,Afternoon,Weekend
+Victorian Sponge,1,0.0,2016,6,Afternoon,Weekend
+Fudge,1,0.0,2016,6,Afternoon,Weekend
+Medialuna,1,0.0,2016,6,Afternoon,Weekend
+Sandwich,1,0.0,2016,6,Afternoon,Weekend
+Empanadas,1,0.0,2016,6,Afternoon,Weekend
+Eggs,1,0.0,2016,12,Afternoon,Weekend
+Bowl Nic Pitt,1,0.0,2016,12,Afternoon,Weekend
+Bacon,1,0.0,2016,11,Afternoon,Weekend
+Spread,1,0.0,2016,11,Afternoon,Weekend
+Dulce de Leche,1,0.0,2016,11,Afternoon,Weekend
+The Nomad,1,0.0,2016,11,Afternoon,Weekend
+Truffles,1,0.0,2016,3,Afternoon,Weekend
+Cookies,1,0.0,2016,3,Afternoon,Weekend
+Mineral water,1,0.0,2016,3,Afternoon,Weekend
+Smoothies,1,0.0,2016,3,Afternoon,Weekend
+Toast,1,0.0,2016,3,Afternoon,Weekend
+Farm House,1,0.0,2016,4,Afternoon,Weekend
+Sandwich,1,0.0,2016,4,Afternoon,Weekend
+Scone,1,0.0,2016,4,Afternoon,Weekend
+Pastry,1,0.0,2016,10,Afternoon,Weekend
+Jammie Dodgers,1,0.0,2016,10,Afternoon,Weekend
+Brownie,1,0.0,2016,10,Afternoon,Weekend
+Vegan mincepie,1,0.0,2016,10,Afternoon,Weekend
+Farm House,1,0.0,2016,10,Afternoon,Weekend
+Coke,1,0.0,2016,10,Afternoon,Weekend
+Smoothies,1,0.0,2016,11,Afternoon,Weekend
+Vegan mincepie,1,0.0,2016,11,Afternoon,Weekend
+Toast,1,0.0,2016,11,Afternoon,Weekend
+The Nomad,1,0.0,2016,12,Afternoon,Weekend
+Mineral water,1,0.0,2016,12,Afternoon,Weekend
+Tartine,1,0.0,2016,12,Afternoon,Weekend
+Panatone,1,0.0,2016,12,Afternoon,Weekend
+Toast,1,0.0,2016,12,Afternoon,Weekend
+Smoothies,1,0.0,2017,7,Afternoon,Weekend
+Mineral water,1,0.0,2017,7,Afternoon,Weekend
+Coke,1,0.0,2017,7,Afternoon,Weekend
+Afternoon with the baker,1,0.0,2017,7,Afternoon,Weekend
+Fudge,1,0.0,2017,7,Afternoon,Weekend
+Tiffin,1,0.0,2017,7,Afternoon,Weekend
+Toast,1,0.0,2017,7,Afternoon,Weekend
+Muesli,1,0.0,2017,8,Afternoon,Weekend
+Farm House,1,0.0,2017,8,Afternoon,Weekend
+Cookies,1,0.0,2017,8,Afternoon,Weekend
+Frittata,1,0.0,2017,8,Afternoon,Weekend
+Medialuna,1,0.0,2017,8,Afternoon,Weekend
+Hearty & Seasonal,1,0.0,2017,8,Afternoon,Weekend
+Afternoon with the baker,1,0.0,2017,8,Afternoon,Weekend
+Raspberry shortbread sandwich,1,0.0,2017,1,Afternoon,Weekend
+Valentine's card,1,0.0,2017,1,Afternoon,Weekend
+Baguette,1,0.0,2017,1,Afternoon,Weekend
+The Nomad,1,0.0,2017,4,Afternoon,Weekend
+Fudge,1,0.0,2017,4,Afternoon,Weekend
+Medialuna,1,0.0,2017,4,Afternoon,Weekend
+Valentine's card,1,0.0,2017,4,Afternoon,Weekend
+Salad,1,0.0,2017,5,Afternoon,Weekend
+Brownie,1,0.0,2017,5,Afternoon,Weekend
+Baguette,1,0.0,2017,5,Afternoon,Weekend
+Cookies,1,0.0,2017,11,Afternoon,Weekend
+Truffles,1,0.0,2017,11,Afternoon,Weekend
+Nomad bag,1,0.0,2017,11,Afternoon,Weekend
+Art Tray,1,0.0,2017,11,Afternoon,Weekend
+Valentine's card,1,0.0,2017,11,Afternoon,Weekend
+Duck egg,1,0.0,2017,12,Afternoon,Weekend
+Extra Salami or Feta,1,0.0,2017,12,Afternoon,Weekend
+Afternoon with the baker,1,0.0,2017,2,Afternoon,Weekend
+Granola,1,0.0,2017,2,Afternoon,Weekend
+Eggs,1,0.0,2017,2,Afternoon,Weekend
+Duck egg,1,0.0,2017,2,Afternoon,Weekend
+Coffee granules ,1,0.0,2017,2,Afternoon,Weekend
+Nomad bag,1,0.0,2017,2,Afternoon,Weekend
+Chocolates,1,0.0,2017,2,Afternoon,Weekend
+Art Tray,1,0.0,2017,2,Afternoon,Weekend
+Vegan Feast,1,0.0,2017,4,Afternoon,Weekend
+Art Tray,1,0.0,2017,4,Afternoon,Weekend
+Smoothies,1,0.0,2017,5,Afternoon,Weekend
+Truffles,1,0.0,2017,5,Afternoon,Weekend
+Soup,1,0.0,2017,5,Afternoon,Weekend
+Jammie Dodgers,1,0.0,2017,5,Afternoon,Weekend
+Tiffin,1,0.0,2017,11,Afternoon,Weekend
+Granola,1,0.0,2017,11,Afternoon,Weekend
+Drinking chocolate spoons ,1,0.0,2017,11,Afternoon,Weekend
+Muffin,1,0.0,2017,11,Afternoon,Weekend
+Salad,1,0.0,2017,11,Afternoon,Weekend
+Medialuna,1,0.0,2017,11,Afternoon,Weekend
+Coke,1,0.0,2017,11,Afternoon,Weekend
+Argentina Night,1,0.0,2017,11,Afternoon,Weekend
+Vegan Feast,1,0.0,2017,11,Afternoon,Weekend
+Vegan mincepie,1,0.0,2017,12,Afternoon,Weekend
+Truffles,1,0.0,2017,12,Afternoon,Weekend
+The Nomad,1,0.0,2017,12,Afternoon,Weekend
+Half slice Monster ,1,0.0,2017,12,Afternoon,Weekend
+Tiffin,1,0.0,2017,12,Afternoon,Weekend
+Coke,1,0.0,2017,12,Afternoon,Weekend
+Mineral water,1,0.0,2017,12,Afternoon,Weekend
+Drinking chocolate spoons ,1,0.0,2017,12,Afternoon,Weekend
+Chocolates,1,0.0,2017,12,Afternoon,Weekend
+Fudge,1,0.0,2017,3,Afternoon,Weekend
+Art Tray,1,0.0,2017,3,Afternoon,Weekend
+Eggs,1,0.0,2017,3,Afternoon,Weekend
+Extra Salami or Feta,1,0.0,2017,3,Afternoon,Weekend
+Vegan Feast,1,0.0,2017,3,Afternoon,Weekend
+Crisps,1,0.0,2017,1,Afternoon,Weekend
+Honey,1,0.0,2017,1,Afternoon,Weekend
+Crisps,1,0.0,2017,2,Afternoon,Weekend
+Argentina Night,1,0.0,2017,2,Afternoon,Weekend
+Spanish Brunch,1,0.0,2017,8,Afternoon,Weekend
+Jam,1,0.0,2017,8,Afternoon,Weekend
+Scone,1,0.0,2017,8,Afternoon,Weekend
+Eggs,1,0.0,2017,8,Afternoon,Weekend
+Cherry me Dried fruit,1,0.0,2017,8,Afternoon,Weekend
+Toast,1,0.0,2017,8,Afternoon,Weekend
+Soup,1,0.0,2017,8,Afternoon,Weekend
+Salad,1,0.0,2017,8,Afternoon,Weekend
+Cookies,1,0.0,2017,9,Afternoon,Weekend
+Extra Salami or Feta,1,0.0,2017,9,Afternoon,Weekend
+Coke,1,0.0,2017,9,Afternoon,Weekend
+Toast,1,0.0,2017,9,Afternoon,Weekend
+Truffles,1,0.0,2017,9,Afternoon,Weekend
+Christmas common,1,0.0,2017,9,Afternoon,Weekend
+Muffin,1,0.0,2017,9,Afternoon,Weekend
+Pastry,1,0.0,2017,9,Afternoon,Weekend
